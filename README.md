@@ -1,6 +1,5 @@
-# 202005-14-AI_Trader_US
-
 # Project: AI Trader in US Stock Market
+## Project ID: 202005-14
 
 Term: Spring 2020
 
