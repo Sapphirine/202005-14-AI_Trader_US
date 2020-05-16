@@ -14,7 +14,7 @@ Term: Spring 2020
 
 ```
 proj/
-├── data/
-├── shiny app/
-├── methods/
+├── Data/
+├── Method/
+├── Shiny App/
 ```
