@@ -1,0 +1,12 @@
+name: stock_screener
+title: stock_screener
+username:
+account: ashleyqqqq
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2258631
+bundleId: 3115275
+url: https://ashleyqqqq.shinyapps.io/stock_screener/
+when: 1588841927.96119
+asMultiple: FALSE
+asStatic: FALSE

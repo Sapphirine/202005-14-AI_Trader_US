@@ -1,0 +1,510 @@
+Ticker,Name,Last Sale,Market Cap,IPO Year,Sector,Industry,Exchange,EPS,P/E Ratio,Book Value,Book Price,Share Outstand,Dividend per Share,Dividend Yield,DCF Score,Rcm
+A,"Agilent Technologies, Inc.",74.21,$22.98B,1999,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,2.417,32.9127,15.636,5.087619,309651008,0.672,0.0089397365,5,Strong Buy
+AAP,Advance Auto Parts Inc,116.59,$8.06B,NA,Consumer Services,Other Specialty Stores,NYSE,6.84,17.377193,51.606,2.3032205,69259400,0.24,0.002123518,5,Strong Buy
+ABBV,AbbVie Inc.,82.84,$122.33B,2012,Health Care,Major Pharmaceuticals,NYSE,5.28,15.804923,-5.526,-15.101338,1476669952,4.39,0.053884864,3,Neutral
+ABC,AmerisourceBergen Corporation (Holding Co),86.38,$17.78B,NA,Health Care,Other Pharmaceuticals,NYSE,3.087,28.89213,14.358,6.2118683,205892000,1.6,0.01849711,5,Strong Buy
+ABT,Abbott Laboratories,89.85,$158.44B,NA,Health Care,Major Pharmaceuticals,NYSE,1.991,48.222,17.639,5.4430523,1763430016,1.36,0.014243821,3,Neutral
+ACN,Accenture plc,180.09,$114.83B,2001,Miscellaneous,Business Services,NYSE,7.665,22.84279,24.284,7.210097,637027008,2.4,0.013928385,3,Neutral
+ADM,Archer-Daniels-Midland Company,35.12,$19.57B,NA,Consumer Non-Durables,Packaged Foods,NYSE,2.44,15.241802,34.485,1.0784398,557208000,1.4,0.03954802,4,Buy
+ADS,Alliance Data Systems Corporation,46.38,$2.21B,2001,Miscellaneous,Business Services,NYSE,5.462,6.931527,33.368,1.1346201,46056200,2.52,0.06870229,5,Strong Buy
+AEE,Ameren Corporation,71.45,$17.63B,NA,Public Utilities,Power Generation,NYSE,3.35,23.232838,32.734,2.37765,246736992,1.92,0.025006512,5,Strong Buy
+AEP,"American Electric Power Company, Inc.",81.39,$40.27B,NA,Public Utilities,Electric Utilities: Central,NYSE,3.88,22.262886,39.728,2.174285,494832992,2.71,0.031882353,3,Neutral
+AES,The AES Corporation,12.94,$8.6B,NA,Basic Industries,Electric Utilities: Central,NYSE,0.451,29.090908,4.512,2.9078014,664768000,0.546,0.043059938,3,Neutral
+AFL,Aflac Incorporated,36.62,$26.46B,NA,Finance,Accident &Health Insurance,NYSE,4.43,8.234763,39.845,0.9155477,722510976,1.08,0.030448265,3,Neutral
+AGN,Allergan plc.,189.74,$62.42B,2013,Health Care,Major Pharmaceuticals,NYSE,-16.021,NA,177.035,1.0562882,328276992,2.96,0.01597065,3,Neutral
+AIG,"American International Group, Inc.",23.9,$20.58B,NA,Finance,Property-Casualty Insurers,NYSE,3.744,6.5438037,74.931,0.32696748,861289984,1.28,0.057502244,4,Buy
+AIV,Apartment Investment and Management Company,36.47,$5.43B,1994,Consumer Services,Real Estate Investment Trusts,NYSE,3.15,12.428572,11.96,3.2734115,148930000,1.58,0.042772066,3,Neutral
+AIZ,"Assurant, Inc.",102.32,$6.11B,2004,Finance,Property-Casualty Insurers,NYSE,5.84,18.11815,94.25,1.1226525,59735800,2.43,0.023592234,4,Buy
+AJG,Arthur J. Gallagher & Co.,77.51,$14.7B,NA,Finance,Specialty Insurers,NYSE,3.52,23.75,27.408,3.0502043,189608000,1.72,0.022167807,5,Strong Buy
+ALB,Albemarle Corporation,57.44,$6.11B,NA,Basic Industries,Major Chemicals,NYSE,5.02,12.24502,37.083,1.657633,106319000,1.47,0.02472666,5,Strong Buy
+ALK,"Alaska Air Group, Inc.",30.11,$3.69B,NA,Transportation,Air Freight/Delivery Services,NYSE,6.19,4.835218,35.211,0.8500185,122585000,1.4,0.050853614,4,Buy
+ALL,Allstate Corporation (The),99.74,$31.56B,NA,Finance,Property-Casualty Insurers,NYSE,14.03,7.478261,74.451,1.4092491,316404992,2,0.019609766,4,Buy
+ALLE,Allegion plc,97.48,$8.99B,2013,Consumer Services,Diversified Commercial Services,NYSE,4.26,22.91784,8.168,11.952742,92600496,1.08,0.011616651,5,Strong Buy
+AMCR,Amcor plc,8.68,$13.92B,2019,Consumer Durables,Miscellaneous manufacturing industries,NYSE,0.313,28.051119,3.331,2.635845,1604050048,0.47,0.0562201,NA,NA
+AME,"AMTEK, Inc.",80.49,$18.45B,NA,Consumer Durables,Metal Fabrications,NYSE,3.75,21.415998,22.33,3.5965068,229190000,0.56,0.0073791016,5,Strong Buy
+AMP,"AMERIPRISE FINANCIAL SERVICES, INC.",111.26,$13.68B,NA,Finance,Investment Managers,NYSE,13.92,7.970546,46.224,2.4002683,122969000,3.81,0.03631684,5,Strong Buy
+AMT,American Tower Corporation (REIT),234.2,$103.86B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,4.24,59.919815,11.415,22.25668,443452000,3.78,0.014941893,5,Strong Buy
+ANET,"Arista Networks, Inc.",207.64,$15.71B,2014,Technology,Computer Communications Equipment,NYSE,10.627,19.762869,37.894,5.542302,76479200,NA,NA,4,Buy
+ANTM,"Anthem, Inc.",269.57,$67.97B,NA,Health Care,Medical Specialities,NYSE,18.47,14.500272,125.446,2.1349425,252136992,3.2,0.012169152,4,Buy
+AON,Aon plc,178.21,$41.18B,NA,Finance,Specialty Insurers,NYSE,6.366,29.973295,14.541,13.122206,231312000,1.72,0.009471888,3,Neutral
+AOS,A.O Smith Corporation,41.65,$6.75B,NA,Consumer Durables,Consumer Electronics/Appliances,NYSE,2.22,18.504505,10.265,4.0019484,135960000,0.9,0.023213824,4,Buy
+APA,Apache Corporation,11.28,$4.26B,NA,Energy,Oil & Gas Production,NYSE,-9.43,NA,8.655,0.9809359,377417984,1,0.10615711,5,Strong Buy
+APD,"Air Products and Chemicals, Inc.",222.25,$49.08B,NA,Basic Industries,Major Chemicals,NYSE,8.509,26.031261,52.366,4.2298436,220486000,4.64,0.021637753,3,Neutral
+APH,Amphenol Corporation,85.5,$25.3B,NA,Capital Goods,Electrical Products,NYSE,3.75,22.458668,15.207,5.538239,NA,NA,NA,5,Strong Buy
+APTV,Aptiv PLC,65.75,$16.78B,2011,Capital Goods,Auto Parts:O.E.M.,NYSE,3.85,16.602598,14.96,4.272727,255219008,0.88,0.014545455,5,Strong Buy
+ARE,"Alexandria Real Estate Equities, Inc.",150.99,$19.05B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,3.12,49.778847,73.392,2.1161706,126195000,4,0.026500596,5,Strong Buy
+ATO,Atmos Energy Corporation,100.1,$12.24B,NA,Public Utilities,Oil/Gas Transmission,NYSE,4.46,24.820627000000002,50.12,2.2086992,122307000,2.15,0.021012511,5,Strong Buy
+AVB,"AvalonBay Communities, Inc.",158.44,$22.3B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,5.632,30.250355,78.311,2.1755564,140735008,6.08,0.038038038,3,Neutral
+AVY,Avery Dennison Corporation,108.07,$9B,NA,Consumer Durables,Containers/Packaging,NYSE,3.57,30.633055,14.442,7.572358,83296000,2.26,0.021448229,5,Strong Buy
+AWK,American Water Works,119.2,$21.58B,2008,Public Utilities,Water Supply,NYSE,3.43,38.41399,33.853,3.8921216,181020000,1.955,0.015286575,3,Neutral
+AXP,American Express Company,88.32,$71.1B,NA,Finance,Finance: Consumer Services,NYSE,7.99,10.937422,28.483,3.068146,805777984,1.64,0.019869154,3,Neutral
+AZO,"AutoZone, Inc.",994.45,$23.22B,NA,Consumer Services,Other Specialty Stores,NYSE,65.553,15.129742,-72.851,-13.614089,23352400,NA,NA,5,Strong Buy
+BA,Boeing Company (The),133.37,$75.25B,NA,Capital Goods,Aerospace,NYSE,-1.124,NA,-15.308,-10.0601,564225984,8.22,0.060902424,3,Neutral
+BAC,Bank of America Corporation,23.08,$200.23B,NA,Finance,Major Banks,NYSE,2.46,9.463415,27.836,0.8363271,8675489792,0.69,0.031651378,5,Strong Buy
+BAX,Baxter International Inc.,87.84,$44.55B,NA,Health Care,Medical/Dental Instruments,NYSE,1.93,48.16062,15.572,5.969047,507206016,0.85,0.009388116,5,Strong Buy
+BBY,"Best Buy Co., Inc.",72.26,$18.57B,NA,Consumer Services,Consumer Electronics/Video Chains,NYSE,5.75,12.243479,13.564,5.1902094,256971008,2.05,0.029718757,5,Strong Buy
+BDX,"Becton, Dickinson and Company",251.87,$68.3B,NA,Health Care,Medical/Dental Instruments,NYSE,2.763,94.60731,78.179,3.3436089,271172992,3.1,0.011620932,3,Neutral
+BEN,"Franklin Resources, Inc.",18.03,$8.96B,NA,Finance,Investment Managers,NYSE,2.51,6.50996,20.26,0.8065153,496897984,1.05,0.065096095,4,Buy
+BK,The Bank Of New York Mellon Corporation,36,$31.88B,NA,Finance,Major Banks,NYSE,4.631,8.07385,42.468,0.88042766,885051008,1.21,0.034065317,5,Strong Buy
+BKR,Baker Hughes Company,13.7,$14.14B,2017,Energy,Metal Fabrications,NYSE,NA,NA,NA,NA,649868992,NA,NA,NA,NA
+BLK,"BlackRock, Inc.",484.16,$75.09B,1999,Finance,Investment Bankers/Brokers/Service,NYSE,26.982,17.673634,216.155,2.2061484,154263008,13.53,0.028128898,5,Strong Buy
+BLL,Ball Corporation,65.61,$21.37B,NA,Consumer Durables,Containers/Packaging,NYSE,1.66,42.289154,9.084,7.7278733,325784992,0.55,0.008255779,5,Strong Buy
+BMY,Bristol-Myers Squibb Company,60.26,$136.34B,NA,Health Care,Major Pharmaceuticals,NYSE,2.01,30.149254,22.922,2.6437483,2262459904,1.68,0.027572623,3,Neutral
+BR,"Broadridge Financial Solutions, Inc.",113.06,$12.98B,NA,Miscellaneous,Business Services,NYSE,3.581,30.700922,9.803,11.214934,114803000,2.05,0.01873686,5,Strong Buy
+BSX,Boston Scientific Corporation,35.99,$50.36B,NA,Health Care,Medical/Dental Instruments,NYSE,3.33,11.498499,9.948,3.849015,1399200000,NA,NA,5,Strong Buy
+BWA,BorgWarner Inc.,27.16,$5.61B,NA,Capital Goods,Auto Parts:O.E.M.,NYSE,3.61,7.4736843,22.8,1.1833334,206704000,0.68,0.026510721,5,Strong Buy
+BXP,"Boston Properties, Inc.",92.93,$14.43B,1997,Consumer Services,Real Estate Investment Trusts,NYSE,3.3,28.939394,35.433,2.6952276,155308992,3.83,0.042241093,5,Strong Buy
+C,Citigroup Inc.,45.52,$94.76B,NA,Finance,Major Banks,NYSE,7.268,6.25344,83.742,0.54273844,2081799936,1.98,0.046875,5,Strong Buy
+CAG,"ConAgra Brands, Inc.",33.28,$16.21B,NA,Consumer Non-Durables,Packaged Foods,NYSE,1.575,21.320635,15.983,2.1009824,487076000,0.85,0.024781343,3,Neutral
+CAH,"Cardinal Health, Inc.",47.42,$13.84B,NA,Health Care,Other Pharmaceuticals,NYSE,-14.23,NA,3.421,14.975153,291784000,1.92,0.03915171,NA,NA
+CARR,Carrier Global Corporation,16.77,$14.53B,2020,Capital Goods,Industrial Machinery/Components,NYSE,NA,NA,NA,NA,866158976,NA,NA,NA,NA
+CAT,"Caterpillar, Inc.",110.88,$60.99B,NA,Capital Goods,Construction/Ag Equipment/Trucks,NYSE,10.74,10.828678,26.52,4.38537,550083008,3.95,0.035701375,NA,NA
+CB,Chubb Limited,101.59,$45.85B,NA,Finance,Property-Casualty Insurers,NYSE,9.71,12.23378,122.421,0.9703401,NA,NA,NA,3,Neutral
+CBRE,"CBRE Group, Inc.",39.7,$13.35B,NA,Finance,Real Estate,NYSE,3.77,11.803714,19.058,2.3349774,336195008,NA,NA,NA,NA
+CCI,Crown Castle International Corporation,156.41,$65.18B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,1.79,93.32403,25.214,6.6252875,416748992,4.575,0.028038241,5,Strong Buy
+CCL,Carnival Corporation,13.93,$10.9B,1987,Consumer Services,Marine Transportation,NYSE,2.722,4.6142545,35.46,0.35420194,599692992,2,0.1718213,NA,NA
+CE,Celanese Corporation,79.31,$9.38B,2005,Basic Industries,Major Chemicals,NYSE,6.842,11.423561,20.969,3.7274072,119556000,2.4,0.03178808,3,Neutral
+CF,"CF Industries Holdings, Inc.",26.61,$5.69B,2005,Basic Industries,Agricultural Chemicals,NYSE,2.23,12.686099,13.411,2.1094625,213796992,1.2,0.04393995,5,Strong Buy
+CFG,"Citizens Financial Group, Inc.",21.42,$9.14B,2014,Finance,Major Banks,NYSE,3.81,5.2152233,47.633,0.4171478,NA,NA,NA,3,Neutral
+CHD,"Church & Dwight Company, Inc.",71.22,$17.5B,NA,Basic Industries,Package Goods/Cosmetics,NYSE,2.44,30.143444,10.871,6.765707,245776000,0.91,0.012743313,5,Strong Buy
+CI,Cigna Corporation,187.09,$69.58B,NA,Health Care,Medical Specialities,NYSE,13.44,14.444198,121.703,1.5951127,371919008,0.04,2.1907005e-4,4,Buy
+CL,Colgate-Palmolive Company,68.53,$58.76B,NA,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,2.75,26.698181,0.137,535.9124,857446976,1.71,0.024013482,3,Neutral
+CLX,Clorox Company (The),192.71,$24.11B,NA,Consumer Durables,Specialty Chemicals,NYSE,6.353,30.45805,4.439,43.590897,125100000,4.14,0.021570364,5,Strong Buy
+CMA,Comerica Incorporated,32.83,$4.56B,NA,Finance,Major Banks,NYSE,7.87,3.8119442,51.564,0.5818013,NA,NA,NA,4,Buy
+CMG,"Chipotle Mexican Grill, Inc.",874.92,$24.34B,2006,Consumer Services,Restaurants,NYSE,12.38,66.257675,60.639,13.527103,NA,NA,NA,3,Neutral
+CMI,Cummins Inc.,157.43,$23.23B,NA,Energy,Industrial Machinery/Components,NYSE,14.48,10.302486,49.88,2.9907777,148122000,4.902,0.033823226,3,Neutral
+CMS,CMS Energy Corporation,55.95,$16.01B,NA,Public Utilities,Power Generation,NYSE,2.39,26.43096,17.677,3.57357,284208000,1.53,0.02550425,3,Neutral
+CNC,Centene Corporation,64.97,$37.63B,NA,Health Care,Medical Specialities,NYSE,3.14,22.703821,30.24,2.3574736,586811008,NA,NA,3,Neutral
+CNP,"CenterPoint Energy, Inc.",16.46,$8.27B,NA,Public Utilities,Electric Utilities: Central,NYSE,1.33,12.428572,13.179,1.2542682,502615008,1.15,0.071031496,3,Neutral
+COF,Capital One Financial Corporation,61.58,$28.04B,1994,Finance,Major Banks,NYSE,11.048,4.9447865,117.511,0.46489266,465720992,1.6,0.031055901,NA,NA
+COG,Cabot Oil & Gas Corporation,20.22,$8.06B,1990,Energy,Oil & Gas Production,NYSE,1.63,12.858895,5.407,3.8764563,398576000,0.35,0.016891893,NA,NA
+COO,"The Cooper Companies, Inc.",280.31,$14.95B,NA,Health Care,Ophthalmic Goods,NYSE,9.082,33.72385,75.827,4.039194,49166600,0.06,2.0401223e-4,5,Strong Buy
+COP,ConocoPhillips,39.14,$42.15B,NA,Energy,Integrated oil Companies,NYSE,6.4,5.5093746,32.244,1.0935367,1084870016,1.335,0.038164668,3,Neutral
+COTY,Coty Inc.,5.18,$3.94B,2013,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,-3.689,NA,5.88,0.97789115,760654016,0.5,0.089445435,5,Strong Buy
+CPB,Campbell Soup Company,50.41,$15.21B,NA,Consumer Non-Durables,Packaged Foods,NYSE,4.791,10.507201,8.258,6.0959067,301744992,1.4,0.027559055,NA,NA
+CPRI,Capri Holdings Limited,13.96,$2.09B,2011,Consumer Non-Durables,Apparel,NYSE,2.274,5.686016,17.509,0.73847735,149364992,NA,NA,NA,NA
+CRM,Salesforce.com Inc,156.37,$139.95B,2004,Technology,Computer Software: Prepackaged Software,NYSE,0.15,1084.1333,37.945,4.2856765,887000000,NA,NA,3,Neutral
+CTL,"CenturyLink, Inc.",10.17,$11.17B,NA,Public Utilities,Telecommunications Equipment,NYSE,-4.92,NA,12.357,0.82948935,1097900032,1,0.10309278,5,Strong Buy
+CTVA,"Corteva, Inc.",25.49,$19.1B,2019,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,-1.28,NA,32.474,0.78555155,749283008,0.26,0.010425019,NA,NA
+CVS,CVS Health Corporation,59.7,$77.94B,NA,Health Care,Medical/Nursing Services,NYSE,5.08,12.472442,49.051,1.2917168,1305590016,2,0.03314002,3,Neutral
+CVX,Chevron Corporation,89.44,$166.98B,NA,Energy,Integrated oil Companies,NYSE,1.54,56.603897,76.621,1.1376776,1866979968,4.76,0.05637139,3,Neutral
+CXO,Concho Resources Inc.,56.73,$11.16B,2007,Energy,Oil & Gas Production,NYSE,-3.55,NA,90.63,0.57309943,196707008,0.5,0.009410879,3,Neutral
+D,"Dominion Energy, Inc.",75.61,$63.36B,NA,Public Utilities,Electric Utilities: Central,NYSE,1.623,50.221813,35.331,2.307039,838000000,3.67,0.046609096,3,Neutral
+DAL,"Delta Air Lines, Inc.",24.12,$15.38B,NA,Transportation,Air Freight/Delivery Services,NYSE,7.3,3.3246574,23.99,1.0116715,NA,NA,NA,3,Neutral
+DD,"DuPont de Nemours, Inc.",45.07,$33.07B,2017,Basic Industries,Major Chemicals,NYSE,0.666,57.5976,55.495,0.69123346,733795008,2.16,0.054176077,NA,NA
+DE,Deere & Company,138.19,$43.34B,NA,Capital Goods,Industrial Machinery/Components,NYSE,10.257,13.499075,38.027,3.6410973,314808000,3.04,0.022318477,3,Neutral
+DFS,Discover Financial Services,41.37,$12.67B,NA,Finance,Finance: Consumer Services,NYSE,9.08,3.859031,36.42,0.9621088,NA,NA,NA,5,Strong Buy
+DG,Dollar General Corporation,173,$43.51B,2009,Consumer Services,Department/Specialty Retail Stores,NYSE,6.64,27.426205,26.604,6.845211,251515008,1.28,0.0071448507,5,Strong Buy
+DGX,Quest Diagnostics Incorporated,108.81,$14.54B,NA,Health Care,Medical Specialities,NYSE,6.277,15.198343,42.414,2.2492573,NA,NA,NA,5,Strong Buy
+DHI,"D.R. Horton, Inc.",46.54,$17.05B,NA,Capital Goods,Homebuilding,NYSE,4.693,8.497763,27.923,1.4282134,366364000,0.625,0.01607097,5,Strong Buy
+DHR,Danaher Corporation,160.77,$112.04B,NA,Capital Goods,Industrial Machinery/Components,NYSE,4.054,38.611248,41.224,3.79706,696894976,0.68,0.0042433697,5,Strong Buy
+DIS,Walt Disney Company (The),105.5,$190.47B,NA,Consumer Services,Services-Misc. Amusement & Recreation,NYSE,5.942,17.945137,50.397,2.1158006,1805440000,1.76,0.017427469,5,Strong Buy
+DLR,"Digital Realty Trust, Inc.",145.92,$37.83B,2004,Consumer Services,Real Estate Investment Trusts,NYSE,2.35,63.489365,40.425,3.6907854,259279008,4.32,0.028958308,3,Neutral
+DOV,Dover Corporation,91.47,$13.17B,NA,Technology,Industrial Machinery/Components,NYSE,4.61,19.195227,21.016,4.2106013,NA,NA,NA,5,Strong Buy
+DOW,Dow Inc.,33.93,$25.2B,2019,Basic Industries,Major Chemicals,NYSE,-1.84,NA,18.262,1.8300296,742680000,2.1,0.06595477,NA,NA
+DRE,Duke Realty Corporation,33.3,$12.27B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,1.178,29.643463,13.638,2.5604928,368343008,0.9,0.026346603,NA,NA
+DRI,"Darden Restaurants, Inc.",69.85,$9.07B,NA,Consumer Services,Restaurants,NYSE,5.126,12.358564,19.377,3.2693398,120823000,3.39,0.04963397,5,Strong Buy
+DTE,DTE Energy Company,100.68,$19.39B,NA,Public Utilities,Electric Utilities: Central,NYSE,6.308,16.78028,60.726,1.7430754,192582000,3.848,0.03759281,NA,NA
+DUK,Duke Energy Corporation,82.64,$60.66B,NA,Public Utilities,Power Generation,NYSE,5.058,17.813364,61.201,1.4721981,734028992,3.745,0.042971887,NA,NA
+DVA,DaVita Inc.,76.51,$9.32B,NA,Health Care,Misc Health and Biotechnology Services,NYSE,5.27,14.8311205,16.953,4.610394,125552000,NA,NA,3,Neutral
+DVN,Devon Energy Corporation,11.15,$4.27B,NA,Energy,Oil & Gas Production,NYSE,-0.893,NA,15.188,0.6070582,382900000,0.35,0.03593429,5,Strong Buy
+DXC,DXC Technology Company,16.79,$4.26B,NA,Technology,EDP Services,NYSE,-6.098,NA,34.517,0.444129,253720992,0.84,0.05710401,5,Strong Buy
+ECL,Ecolab Inc.,190,$54.94B,NA,Basic Industries,Package Goods/Cosmetics,NYSE,5.33,33.536587,30.114,5.935777,289166016,1.85,0.010585947,5,Strong Buy
+ED,Consolidated Edison Inc,77.25,$25.8B,NA,Public Utilities,Power Generation,NYSE,4.08,21.950981,54.18,1.6530085,333976000,2.96,0.035187826,5,Strong Buy
+EFX,"Equifax, Inc.",137.89,$16.74B,NA,Finance,Finance: Consumer Services,NYSE,-3.299,NA,21.276,6.0147586,NA,NA,NA,NA,NA
+EIX,Edison International,55.69,$20.19B,NA,Public Utilities,Electric Utilities: Central,NYSE,3.77,16.461538,36.75,1.6887075,362614016,2.475,0.04195626,3,Neutral
+EL,"Estee Lauder Companies, Inc. (The)",172.54,$62.04B,1995,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,5.064,34.41153,12.727,13.69215,222319008,1.77,0.010663936,5,Strong Buy
+EMN,Eastman Chemical Company,60.02,$8.16B,NA,Basic Industries,Major Chemicals,NYSE,5.48,10.054744,43.827,1.2572159,135894000,2.52,0.046779282,5,Strong Buy
+EMR,Emerson Electric Company,53.79,$32.14B,NA,Energy,Consumer Electronics/Appliances,NYSE,3.505,14.4194,13.769,3.6705644,NA,NA,NA,3,Neutral
+EOG,"EOG Resources, Inc.",44.57,$25.94B,NA,Energy,Oil & Gas Production,NYSE,4.71,8.883227,37.189,1.1250639,582054976,1.083,0.025098491,NA,NA
+EQR,Equity Residential,62.31,$23.19B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,2.597,26.873318,27.654,2.5236857,372104000,2.27,0.034572035,NA,NA
+ES,Eversource Energy,79.87,$26.86B,NA,Public Utilities,Electric Utilities: Central,NYSE,2.81,32.58363,38.287,2.3914123,336292000,2.14,0.024315419,5,Strong Buy
+ESS,"Essex Property Trust, Inc.",236.81,$15.67B,1994,Consumer Services,Real Estate Investment Trusts,NYSE,6.66,39.165165,94.118,2.7714148,66181400,7.8,0.031873163,5,Strong Buy
+ESS,"Essex Property Trust, Inc.",236.81,$15.67B,1994,Consumer Services,Real Estate Investment Trusts,NYSE,6.66,39.165165,94.118,2.7714148,66181400,7.8,0.031873163,5,Strong Buy
+ETN,"Eaton Corporation, PLC",82.07,$33.77B,NA,Technology,Industrial Machinery/Components,NYSE,5.25,15.097143,38.911,2.0369563,411436992,2.84,0.03657437,3,Neutral
+ETR,Entergy Corporation,93.57,$18.79B,NA,Public Utilities,Electric Utilities: Central,NYSE,6.3,16.074602,51.337,1.9726511,200816000,3.66,0.036791313,NA,NA
+EVRG,"Evergy, Inc.",55.92,$12.67B,2018,Public Utilities,Power Generation,NYSE,2.79,21.85663,37.821,1.6123317,227903008,1.93,0.03240974,NA,NA
+EW,Edwards Lifesciences Corporation,209.33,$43.24B,NA,Health Care,Industrial Specialties,NYSE,4.93,46.33063,19.839,11.513181,208570000,NA,NA,3,Neutral
+EXR,Extra Space Storage Inc,87.16,$11.29B,2004,Consumer Services,Real Estate Investment Trusts,NYSE,3.235,28.77898,19.608,4.748062,129494000,3.56,0.038907103,3,Neutral
+F,Ford Motor Company,4.92,$19.57B,NA,Capital Goods,Auto Manufacturing,NYSE,0.01,512,8.37,0.61170846,3905840128,0.6,0.12578617,5,Strong Buy
+FBHS,"Fortune Brands Home & Security, Inc.",51.5,$7.19B,NA,Basic Industries,Homebuilding,NYSE,3.06,15.228758,17.388,2.6800091,139706000,0.88,0.020427112,5,Strong Buy
+FCX,"Freeport-McMoran, Inc.",8.46,$12.28B,NA,Basic Industries,Precious Metals,NYSE,-0.168,NA,6.408,1.3014982,1450909952,0.2,0.026178012,5,Strong Buy
+FDX,FedEx Corporation,118.2,$30.88B,NA,Transportation,Air Freight/Delivery Services,NYSE,-1.34,NA,72.08,1.7321031,261250000,2.6,0.021933524,5,Strong Buy
+FE,FirstEnergy Corp.,40.84,$22.13B,NA,Public Utilities,Electric Utilities: Central,NYSE,1.685,27.424334,12.901,3.5818927,540312000,1.53,0.03459973,5,Strong Buy
+FIS,"Fidelity National Information Services, Inc.",129.29,$79.87B,NA,Miscellaneous,Business Services,NYSE,0.66,193.87878,80.521,1.5891505,617737024,1.4,0.011423908,5,Strong Buy
+FLS,Flowserve Corporation,26.55,$3.45B,NA,Capital Goods,Fluid Controls,NYSE,1.93,12.849741,13.716,1.8081074,130113000,0.76,0.03081914,5,Strong Buy
+FLT,"FleetCor Technologies, Inc.",232.83,$19.5B,2010,Miscellaneous,Business Services,NYSE,9.94,22.493965,43.491,5.141063,85342200,NA,NA,3,Neutral
+FMC,FMC Corporation,89.92,$11.64B,NA,Basic Industries,Major Chemicals,NYSE,3.62,23.78453,19.611,4.3903933,129441000,1.64,0.019498276,5,Strong Buy
+FRC,FIRST REPUBLIC BANK,100.59,$17.23B,NA,NA,NA,NYSE,5.139,19.46293,53.763,1.8603872,171288000,0.77,0.007847534,NA,NA
+FRT,Federal Realty Investment Trust,78.42,$5.93B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,4.61,16.34707,31.445,2.3965654,75622600,4.14,0.060927153,5,Strong Buy
+FTI,TechnipFMC plc,8.27,$3.71B,NA,Energy,Metal Fabrications,NYSE,-5.391,NA,17.131,0.4739945,448302016,0.52,0.06295399,5,Strong Buy
+FTV,Fortive Corporation,60.75,$20.46B,2016,Capital Goods,Industrial Machinery/Components,NYSE,1.97,30.639593,21.985,2.7455082,336792992,0.28,0.0048493245,5,Strong Buy
+GD,General Dynamics Corporation,127.8,$37.09B,NA,Capital Goods,Marine Transportation,NYSE,11.98,11.535059,46.987,2.9410262,289609984,4.08,0.030591588,5,Strong Buy
+GE,General Electric Company,6.5,$56.55B,NA,Energy,Consumer Electronics/Appliances,NYSE,-0.624,NA,3.24,2.1111112,8700000256,0.04,0.00622084,5,Strong Buy
+GIS,"General Mills, Inc.",59.58,$36.11B,NA,Consumer Non-Durables,Packaged Foods,NYSE,3.478,17.443933,12.504,4.8520474,606139008,1.96,0.03256355,3,Neutral
+GL,Globe Life Inc.,79.99,$8.59B,NA,Finance,Life Insurance,NYSE,6.83,11.310395,67.431,1.1456156,107397000,0.69,0.0094236545,NA,NA
+GLW,Corning Incorporated,20.66,$15.68B,NA,Basic Industries,Telecommunications Equipment,NYSE,1.068,19.40075,13.92,1.4885057,762620032,0.8,0.040040042,5,Strong Buy
+GM,General Motors Company,20.9,$30.34B,2010,Capital Goods,Auto Manufacturing,NYSE,4.57,4.919037,29.851,0.7530736,1428780032,1.52,0.071361504,4,Buy
+GPC,Genuine Parts Company,75.19,$10.93B,NA,Capital Goods,Automotive Aftermarket,NYSE,4.24,17.606133,25.277,2.9532776,145382000,3.05,0.04183813,5,Strong Buy
+GPN,Global Payments Inc.,161.64,$48.51B,NA,Miscellaneous,Business Services,NYSE,2.16,71.703705,92.783,1.6692715,300128000,0.41,0.0027774016,5,Strong Buy
+GPS,"Gap, Inc. (The)",7.83,$2.92B,NA,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,0.93,8.978495,8.938,0.9342135,372639008,0.97,0.13642757,3,Neutral
+GS,"Goldman Sachs Group, Inc. (The)",177.1,$60.9B,1999,Finance,Investment Bankers/Brokers/Service,NYSE,18.472,9.933413,225.69,0.81301785,343873984,4.6,0.026139334,5,Strong Buy
+GWW,"W.W. Grainger, Inc.",267.66,$14.31B,NA,Consumer Services,Office Equipment/Supplies/Services,NYSE,15.32,18.291122,34.552,8.110095,53673100,5.68,0.020570021,5,Strong Buy
+HAL,Halliburton Company,9.76,$8.56B,NA,Energy,Oilfield Services/Equipment,NYSE,-1.293,NA,9.125,0.8306849,NA,NA,NA,5,Strong Buy
+HBI,Hanesbrands Inc.,9.58,$3.43B,NA,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,1.64,5.615854,3.412,2.6992967,357884000,0.6,0.07168459,3,Neutral
+HCA,"HCA Healthcare, Inc.",104.86,$35.49B,2011,Health Care,Hospital/Nursing Management,NYSE,10.07,11.485601,-8.297,-13.939979,NA,NA,NA,5,Strong Buy
+HD,"Home Depot, Inc. (The)",218.57,$234.77B,NA,Consumer Services,RETAIL: Building Materials,NYSE,10.25,20.43122,-2.893,-72.38853,1090829952,5.58,0.027330166,5,Strong Buy
+HES,Hess Corporation,44.28,$13.6B,NA,Energy,Integrated oil Companies,NYSE,-1.37,NA,28.634,1.3043933,305215008,1,0.0253936,5,Strong Buy
+HFC,HollyFrontier Corporation,30.32,$4.91B,NA,Energy,Integrated oil Companies,NYSE,4.61,5.8611712,37.191,0.7265198,161884000,1.34,0.049851194,5,Strong Buy
+HIG,"Hartford Financial Services Group, Inc. (The)",35.69,$12.78B,NA,Finance,Property-Casualty Insurers,NYSE,5.66,7.0689044,44.32,0.9027527,357971008,1.2,0.03363229,4,Buy
+HII,"Huntington Ingalls Industries, Inc.",185.67,$7.56B,NA,Capital Goods,Marine Transportation,NYSE,13.26,14.778281,38.922,5.0346847,40723900,3.61,0.019384632,5,Strong Buy
+HLT,Hilton Worldwide Holdings Inc.,72.03,$19.96B,2016,Consumer Services,Hotels/Resorts,NYSE,3.04,24.875002,-1.728,-43.761574,286855008,0.6,0.008475774,5,Strong Buy
+HOG,"Harley-Davidson, Inc.",20.39,$3.12B,NA,Consumer Non-Durables,Motor Vehicles,NYSE,2.68,7.220149,11.99,1.613845,153135008,1.5,0.08205689,3,Neutral
+HON,Honeywell International Inc.,137.25,$97.08B,NA,Capital Goods,Aerospace,NYSE,8.41,16.447088,26.008,5.318364,707286976,3.36,0.02525746,3,Neutral
+HP,"Helmerich & Payne, Inc.",16.81,$1.85B,NA,Energy,Oil & Gas Production,NYSE,-0.24,NA,36.514,0.48584104,108878000,2.84,0.15409657,3,Neutral
+HPE,Hewlett Packard Enterprise Company,9.48,$12.21B,2015,Technology,Retail: Computer Software & Peripheral Equipment,NYSE,0.892,10.88565,13.295,0.7303498,1288339968,0.458,0.050719824,5,Strong Buy
+HPQ,HP Inc.,14.71,$21.03B,NA,Technology,Computer Manufacturing,NYSE,2.022,7.6755686,-1.14,-13.614036,1429760000,0.657,0.044421908,5,Strong Buy
+HRB,"H&R Block, Inc.",16.06,$3.09B,NA,Consumer Services,Other Consumer Services,NYSE,2.038,7.046123,-1.654,-8.681983,192475008,1.03,0.07431457,5,Strong Buy
+HRL,Hormel Foods Corporation,46.6,$25.06B,NA,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,1.81,27.906076,11.335,4.456109,537776000,0.863,0.017830577,5,Strong Buy
+HST,"Host Hotels & Resorts, Inc.",11.44,$8.08B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,1.26,9.023809,10.259,1.1082952,705881984,0.8,0.07532957,5,Strong Buy
+HSY,Hershey Company (The),132.54,$27.57B,NA,Consumer Non-Durables,Specialty Foods,NYSE,5.46,26.824177,8.328,17.586456,147696992,2.99,0.02086823,5,Strong Buy
+HUM,Humana Inc.,372.24,$49.18B,NA,Health Care,Medical Specialities,NYSE,20.1,18.586567,91.117,4.100113,132106000,2.2,0.0059917746,4,Buy
+HWM,Howmet Aerospace Inc.,12.54,$5.47B,NA,Capital Goods,Metal Fabrications,NYSE,NA,NA,NA,NA,435919008,NA,NA,NA,NA
+IBM,International Business Machines Corporation,121.87,$108.21B,NA,Technology,Computer Manufacturing,NYSE,10.566,11.368541,23.493,5.1130123,NA,NA,NA,3,Neutral
+ICE,Intercontinental Exchange Inc.,88.67,$48.69B,2005,Finance,Investment Bankers/Brokers/Service,NYSE,3.42,26.432749,31.125,2.9044178,549137984,1.1,0.012333221,5,Strong Buy
+IEX,IDEX Corporation,151.29,$11.41B,1989,Capital Goods,Fluid Controls,NYSE,5.56,27.469423,29.745,5.134644,76239200,2,0.013187393,5,Strong Buy
+IFF,"International Flavors & Fragrances, Inc.",126.63,$13.52B,NA,Basic Industries,Major Chemicals,NYSE,4,31.28,58.221,2.1490529,106802000,2.96,0.023817187,5,Strong Buy
+INFO,IHS Markit Ltd.,65.3,$26.05B,1996,Technology,"Computer Software: Programming, Data Processing",NYSE,2.151,31.227335,20.979,3.2017732,398916000,0.17,0.0026784306,5,Strong Buy
+INFO,IHS Markit Ltd.,65.3,$26.05B,1996,Technology,"Computer Software: Programming, Data Processing",NYSE,2.151,31.227335,20.979,3.2017732,398916000,0.17,0.0026784306,5,Strong Buy
+IP,International Paper Company,33.91,$13.34B,NA,Basic Industries,Paper,NYSE,3.07,10.374593,19.67,1.619217,393431008,2.013,0.06716717,3,Neutral
+IPG,"Interpublic Group of Companies, Inc. (The)",16.43,$6.4B,NA,Technology,Advertising,NYSE,1.68,8.964286,7.173,2.09954,NA,NA,NA,5,Strong Buy
+IQV,"IQVIA Holdings, Inc.",136.52,$26.08B,2013,Health Care,Biotechnology: Commercial Physical & Biological Resarch,NYSE,0.96,137.0521,31.217,4.214691,192816992,NA,NA,3,Neutral
+IR,Ingersoll Rand Inc.,28.13,$11.69B,2017,Technology,Industrial Machinery/Components,NYSE,0.76,35.276314,9.119,2.940015,415576992,2.12,0.07904548,5,Strong Buy
+IRM,Iron Mountain Incorporated,23.6,$6.79B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,0.93,26.870968,5.096,4.903846,287143008,2.452,0.10008163,5,Strong Buy
+IT,"Gartner, Inc.",114.92,$10.25B,1993,Consumer Services,Other Consumer Services,NYSE,2.56,41.390625,10.527,10.065545,89453000,NA,NA,5,Strong Buy
+ITW,Illinois Tool Works Inc.,159.45,$50.63B,NA,Technology,Industrial Machinery/Components,NYSE,7.74,20.488373,9.462,16.75967,317518016,4.14,0.026616948,5,Strong Buy
+IVZ,Invesco Plc,7.99,$3.67B,NA,Finance,Investment Managers,NYSE,1.28,7.0859375,21.734,0.4173185,458899008,1.24,0.13507625,3,Neutral
+J,Jacobs Engineering Group Inc.,80.78,$10.75B,NA,Basic Industries,Military/Government/Technical,NYSE,NA,NA,NA,NA,133050000,NA,NA,NA,NA
+JCI,Johnson Controls International plc,27.86,$21.29B,NA,Consumer Services,Other Consumer Services,NYSE,6.55,4.5099235,25.298,1.1676812,762780992,1.04,0.037477475,NA,NA
+JNJ,Johnson & Johnson,148.29,$390.94B,NA,Health Care,Major Pharmaceuticals,NYSE,6.408,23.72347,22.591,6.729229,2636349952,3.8,0.024838224,NA,NA
+JNPR,"Juniper Networks, Inc.",21.82,$7.22B,1999,Technology,Computer Communications Equipment,NYSE,0.99,22.79798,13.726,1.6443247,331012000,0.76,0.03275862,4,Buy
+JPM,J P Morgan Chase & Co,93.25,$284.09B,NA,Finance,Major Banks,NYSE,8.898,10.696786,75.878,1.254382,3046540032,3.5,0.03917618,5,Strong Buy
+JWN,"Nordstrom, Inc.",17.66,$2.76B,NA,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,3.18,5.911949,6.292,2.9879212,156346000,1.48,0.09068628,5,Strong Buy
+K,Kellogg Company,64.86,$22.21B,NA,Consumer Non-Durables,Packaged Foods,NYSE,2.8,23.221428,8.043,8.084047,342499008,2.26,0.03494125,5,Strong Buy
+KEY,KeyCorp,11.07,$10.8B,NA,Finance,Major Banks,NYSE,1.364,7.9252205,15.904,0.67970324,975318976,0.725,0.07087,5,Strong Buy
+KEYS,Keysight Technologies Inc.,93.84,$17.59B,2014,Capital Goods,Industrial Machinery/Components,NYSE,3.509,27.312624,16.646,5.7575393,187395008,NA,NA,5,Strong Buy
+KIM,Kimco Realty Corporation,10.6,$4.58B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,0.8,11.15,11.266,0.7917628,432510016,1.12,0.13445379,5,Strong Buy
+KMB,Kimberly-Clark Corporation,136.78,$46.58B,NA,Consumer Durables,Containers/Packaging,NYSE,6.24,22.746796,-0.097,-1463.299,NA,NA,NA,5,Strong Buy
+KMI,"Kinder Morgan, Inc.",14.56,$32.93B,2011,Public Utilities,Natural Gas Distribution,NYSE,0.962,15.561331,14.898,1.0048329,NA,NA,NA,5,Strong Buy
+KMX,CarMax Inc,71.07,$11.55B,NA,Consumer Durables,Automotive Aftermarket,NYSE,5.33,12.236398,23.11,2.822155,162575008,NA,NA,NA,NA
+KO,Coca-Cola Company (The),45.6,$195.85B,NA,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,2.07,23.217392,4.435,10.836528,NA,NA,NA,3,Neutral
+KR,Kroger Company (The),31.96,$24.86B,NA,Consumer Services,Food Chains,NYSE,2.04,15.651961,10.916,2.925064,788000000,0.62,0.019189104,5,Strong Buy
+KSS,Kohl&#39;s Corporation,17.64,$2.74B,1992,Consumer Services,Department/Specialty Retail Stores,NYSE,4.37,4.2288327,35.016,0.5277587,155246000,2.68,0.17413905,5,Strong Buy
+KSU,Kansas City Southern,128.36,$12.2B,NA,Transportation,Railroads,NYSE,5.4,25.807407,45.954,3.032598,NA,NA,NA,5,Strong Buy
+L,Loews Corporation,31.62,$8.95B,NA,Finance,Property-Casualty Insurers,NYSE,3.07,11.771987,65.708,0.55000913,283136992,0.25,0.0074030203,4,Buy
+LB,"L Brands, Inc.",12,$3.32B,NA,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,-1.33,NA,-5.412,-2.5461936,276532992,1.2,0.11776252,3,Neutral
+LDOS,"Leidos Holdings, Inc.",97.89,$13.89B,NA,Technology,EDP Services,NYSE,4.6,21.58261,24.206,4.1014624,141847008,1.32,0.013523205,5,Strong Buy
+LEG,"Leggett & Platt, Incorporated",33.75,$4.46B,NA,Consumer Durables,Home Furnishings,NYSE,2.47,11.696356,9.954,2.9023507,132249000,1.58,0.057580177,5,Strong Buy
+LEN,Lennar Corporation,49.46,$15.44B,NA,Basic Industries,Homebuilding,NYSE,6.288,6.82729,51.385,0.83545786,274617984,0.245,0.0059668776,5,Strong Buy
+LH,Laboratory Corporation of America Holdings,159.03,$15.44B,NA,Health Care,Medical Specialities,NYSE,8.35,17.786825,77.85,1.9077715,97103296,NA,NA,5,Strong Buy
+LHX,"L3Harris Technologies, Inc.",189.46,$41.09B,NA,Capital Goods,Industrial Machinery/Components,NYSE,7.351,27.68331,103.411,1.9678757,216896000,3,0.015644556,NA,NA
+LIN,Linde plc,180.33,$94.7B,2018,Basic Industries,Major Chemicals,NYSE,4.187,45.032246,91.833,2.0531836,537176000,3.5,0.019273126,NA,NA
+LLY,Eli Lilly and Company,153.63,$147.03B,NA,Health Care,Major Pharmaceuticals,NYSE,8.893,17.686945,2.873,54.74765,957038016,2.58,0.01646353,3,Neutral
+LMT,Lockheed Martin Corporation,383.47,$107.54B,NA,Capital Goods,Military/Government/Technical,NYSE,21.95,18.292027,11.168,35.951828,NA,NA,NA,5,Strong Buy
+LNC,Lincoln National Corporation,32.48,$6.28B,NA,Finance,Life Insurance,NYSE,4.38,6.7716894,100.113,0.2962652,198331008,1.51,0.051997244,5,Strong Buy
+LOW,"Lowe&#39;s Companies, Inc.",104.46,$78.86B,NA,Consumer Services,RETAIL: Building Materials,NYSE,5.49,17.686703,2.585,37.562862,754948992,2.13,0.022432862,3,Neutral
+LUV,Southwest Airlines Company,29.23,$14.87B,NA,Transportation,Air Freight/Delivery Services,NYSE,4.27,7.30445,18.942,1.6466055,508768992,0.7,0.02356109,4,Buy
+LVS,Las Vegas Sands Corp.,45.61,$34.83B,2004,Consumer Services,Hotels/Resorts,NYSE,3.499,13.435266499999999,6.794,6.91934,NA,NA,NA,5,Strong Buy
+LW,"Lamb Weston Holdings, Inc.",58.35,$8.52B,2016,Consumer Non-Durables,Packaged Foods,NYSE,3.26,18.380367,1.852,32.35421,146039008,0.83,0.014734599,5,Strong Buy
+LYB,LyondellBasell Industries NV,55.16,$18.4B,NA,Basic Industries,Major Chemicals,NYSE,9.58,5.447808,24.122,2.1635852,333617984,4.15,0.086260654,3,Neutral
+LYV,"Live Nation Entertainment, Inc.",41.17,$8.86B,NA,Consumer Services,Services-Misc. Amusement & Recreation,NYSE,-0.023,NA,5.391,7.113708,213716000,NA,NA,5,Strong Buy
+MA,Mastercard Incorporated,268.74,$270.11B,2006,Miscellaneous,Business Services,NYSE,7.94,32.741814,5.852,44.424126,994281024,1.39,0.0054104547,3,Neutral
+MAA,"Mid-America Apartment Communities, Inc.",109.63,$12.53B,1994,Consumer Services,Real Estate Investment Trusts,NYSE,3.068,36.994785,53.118,2.1367521,114280000,3.84,0.03545379,5,Strong Buy
+MAS,Masco Corporation,40.04,$10.56B,NA,Basic Industries,Forest Products,NYSE,3.228,12.388476,-0.853,-46.881596,263755008,0.51,0.01299363,5,Strong Buy
+MCD,McDonald&#39;s Corporation,182.66,$135.81B,NA,Consumer Services,Restaurants,NYSE,7.88,23.616753,-11.001,-16.916643,743515008,4.73,0.02536465,5,Strong Buy
+MCK,McKesson Corporation,134.7,$21.75B,NA,Health Care,Other Pharmaceuticals,NYSE,-4.97,NA,34.895,4.0581746,161504000,1.6,0.011832569,5,Strong Buy
+MCO,Moody&#39;s Corporation,241.84,$45.27B,NA,Finance,Finance: Consumer Services,NYSE,7.42,32.25876,3.261,73.4008,187208000,2,0.00833924,3,Neutral
+MDT,Medtronic plc,95.14,$127.5B,NA,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NYSE,4.01,25.768078,38.64,2.674172,1340169984,2.12,0.022064945,3,Neutral
+MET,"MetLife, Inc.",34.68,$31.76B,2000,Finance,Life Insurance,NYSE,6.06,5.455446,72.262,0.4575019,915827968,1.74,0.054785892,4,Buy
+MGM,MGM Resorts International,15.01,$7.4B,NA,Consumer Services,Hotels/Resorts,NYSE,3.878,3.6307375,15.358,0.9167861,492691008,0.52,0.039127164,5,Strong Buy
+MHK,"Mohawk Industries, Inc.",83.38,$5.94B,NA,Consumer Durables,Home Furnishings,NYSE,49.89534,1.5953393,113.355,0.70221865000000006,71184496,NA,NA,5,Strong Buy
+MKC,"McCormick & Company, Incorporated",154.42,$20.52B,NA,Consumer Non-Durables,Packaged Foods,NYSE,5.209,30.119024,26.801,5.853886,123641000,2.33,0.015192019,5,Strong Buy
+MLM,"Martin Marietta Materials, Inc.",186.59,$11.6B,1994,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,9.74,20.417864,85.75,2.3191836,62143700,2.06,0.011635131,5,Strong Buy
+MMC,"Marsh & McLennan Companies, Inc.",97.1,$48.95B,NA,Finance,Specialty Insurers,NYSE,3.41,28.89736,15.474,6.3681016,504096000,1.74,0.018494898,5,Strong Buy
+MMM,3M Company,148.6,$85.47B,NA,Health Care,Medical/Dental Instruments,NYSE,7.81,18.752882,17.495,8.371534,575600000,5.76,0.04010863,3,Neutral
+MO,Altria Group,37.91,$70.45B,NA,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,-0.7,NA,3.349,12.197671,1858370048,3.28,0.08674953,NA,NA
+MOS,Mosaic Company (The),11.15,$4.23B,NA,Basic Industries,Agricultural Chemicals,NYSE,-2.781,NA,24.251,0.47214547,378764000,0.175,0.01585145,5,Strong Buy
+MPC,Marathon Petroleum Corporation,29.24,$19.01B,NA,Energy,Integrated oil Companies,NYSE,3.97,6.4105797,51.917,0.49020553,650001024,2.17,0.087889835,5,Strong Buy
+MRK,"Merck & Company, Inc.",77.67,$196.12B,NA,Health Care,Major Pharmaceuticals,NYSE,3.81,21.905512,10.204,8.179145,2525090048,2.2,0.027506877,3,Neutral
+MRO,Marathon Oil Corporation,5.5,$4.35B,NA,Energy,Oil & Gas Production,NYSE,0.59,7.3728814,15.263,0.28500295,790417984,0.2,0.04415011,5,Strong Buy
+MS,Morgan Stanley,38.4,$60.5B,NA,Finance,Investment Bankers/Brokers/Service,NYSE,4.814,8.120067,45.816,0.85319537,1575549952,1.4,0.03702724,5,Strong Buy
+MSCI,MSCI Inc,319.94,$26.78B,NA,Miscellaneous,Business Services,NYSE,6.59,48.130497,-0.905,-350.47513,85014800,2.52,0.007859772,5,Strong Buy
+MSI,"Motorola Solutions, Inc.",138.83,$24.39B,NA,Technology,Radio And Television Broadcasting And Communications Equipment,NYSE,4.95,31.87273,-4.106,-38.42426,175696000,2.35,0.015502342,5,Strong Buy
+MTB,M&T Bank Corporation,107.2,$13.75B,NA,Finance,Major Banks,NYSE,13.755,7.668484,110.78,0.9521575,NA,NA,NA,5,Strong Buy
+MTD,"Mettler-Toledo International, Inc.",689.16,$16.53B,1997,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,22.47,32.08322,17.441,41.33421,23980500,NA,NA,5,Strong Buy
+NCLH,Norwegian Cruise Line Holdings Ltd.,13.84,$2.97B,NA,Consumer Services,Marine Transportation,NYSE,4.3,2.8790696,30.578,0.40486625,213082000,NA,NA,3,Neutral
+NCLH,Norwegian Cruise Line Holdings Ltd.,13.84,$2.97B,NA,Consumer Services,Marine Transportation,NYSE,4.3,2.8790696,30.578,0.40486625,213082000,NA,NA,3,Neutral
+NEE,"NextEra Energy, Inc.",227.05,$111.13B,NA,Public Utilities,Electric Utilities: Central,NYSE,7.76,31.734535,75.675,3.2541788,NA,NA,NA,5,Strong Buy
+NEM,Newmont Corporation,60.99,$49.37B,NA,Basic Industries,Precious Metals,NYSE,3.812,15.537775,26.506,2.2345884,807788032,0.56,0.009071765,3,Neutral
+NI,"NiSource, Inc",24.47,$9.36B,NA,Public Utilities,Power Generation,NYSE,0.87,30.321838,13.364,1.9739598,382683008,0.81,0.031141868,5,Strong Buy
+NKE,"Nike, Inc.",85.54,$133.02B,NA,Consumer Non-Durables,Shoe Manufacturing,NYSE,2.709,33.18937,5.817,15.456422,1240019968,0.93,0.010476513,3,Neutral
+NLSN,Nielsen N.V.,13.96,$4.98B,2011,Miscellaneous,Business Services,NYSE,-1.17,NA,6.163,2.1515496,356475008,1.11,0.093591906,5,Strong Buy
+NOC,Northrop Grumman Corporation,328.06,$54.88B,NA,Capital Goods,Industrial Machinery/Components,NYSE,13.22,26.951588,52.541,6.7813706,167636992,5.16,0.015087278,5,Strong Buy
+NOV,"National Oilwell Varco, Inc.",11.7,$4.54B,NA,Energy,Metal Fabrications,NYSE,-15.96,NA,20.156,0.5789839,388223008,0.2,0.016949153,5,Strong Buy
+NOW,"ServiceNow, Inc.",339.51,$64.44B,2012,Technology,Computer Software: Prepackaged Software,NYSE,3.18,94.210686,11.232,26.672897,188600000,NA,NA,3,Neutral
+NRG,"NRG Energy, Inc.",32.97,$8.26B,NA,Public Utilities,Electric Utilities: Central,NYSE,16.806,1.8665954,6.659,4.710918,250542000,0.39,0.012544226,4,Buy
+NSC,Norfolk Southern Corporation,170.73,$43.9B,NA,Transportation,Railroads,NYSE,10.248,15.678181,58.874,2.7290485,257104992,3.6,0.023410065,5,Strong Buy
+NUE,Nucor Corporation,41,$12.35B,NA,Basic Industries,Steel/Iron Ore,NYSE,4.138,9.021267,34.319,1.0877357,301132000,1.603,0.04403846,5,Strong Buy
+NVR,"NVR, Inc.",3036.9,$11.16B,NA,Capital Goods,Homebuilding,NYSE,221.13,13.194727,644.479,4.5273004,3688040,NA,NA,5,Strong Buy
+O,Realty Income Corporation,51.79,$17.78B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,1.38,37.949276,29.298,1.787494,344052000,2.717,0.05414508,5,Strong Buy
+OKE,"ONEOK, Inc.",27.94,$11.56B,NA,Public Utilities,Oil & Gas Production,NYSE,3.07,9.570032,15.066,1.9500862,413856992,3.605,0.13200293,5,Strong Buy
+OMC,Omnicom Group Inc.,55.89,$11.98B,NA,Technology,Advertising,NYSE,6.06,9.004951,13.146,4.1510725,216868000,2.6,0.051292166,3,Neutral
+ORCL,Oracle Corporation,51.79,$163.32B,1986,Technology,Computer Software: Prepackaged Software,NYSE,3.18,17.1761,4.503,12.129692,3153580032,0.96,0.018366175,4,Buy
+OTIS,Otis Worldwide Corporation,49.71,$21.53B,2020,Energy,Consumer Electronics/Appliances,NYSE,NA,NA,NA,NA,433079008,NA,NA,NA,NA
+OXY,Occidental Petroleum Corporation,15.24,$13.97B,NA,Energy,Oil & Gas Production,NYSE,-1.219,NA,27.368,0.4980269,916777024,3.14,0.24116744,5,Strong Buy
+PAYC,"Paycom Software, Inc.",241.66,$14.22B,2014,Technology,Computer Software: Prepackaged Software,NYSE,3.091,72.78874,9.133,24.63484,58831700,NA,NA,5,Strong Buy
+PEAK,"Healthpeak Properties, Inc.",25.15,$12.72B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,NA,NA,NA,NA,505631008,NA,NA,NA,NA
+PEG,Public Service Enterprise Group Incorporated,49.41,$24.96B,NA,Public Utilities,Power Generation,NYSE,3.33,16.402403,29.938,1.8244371,505127008,1.88,0.03679061,5,Strong Buy
+PFE,"Pfizer, Inc.",37.64,$208.81B,NA,Health Care,Major Pharmaceuticals,NYSE,2.867,12.8740835,11.407,3.2357326,5547639808,1.44,0.03972414,4,Buy
+PG,Procter & Gamble Company (The),116.82,$289.2B,NA,Basic Industries,Package Goods/Cosmetics,NYSE,1.784,69.8935,18.072,6.899624,NA,NA,NA,3,Neutral
+PGR,Progressive Corporation (The),76.18,$44.59B,NA,Finance,Property-Casualty Insurers,NYSE,6.06,13.613861,24.52,3.3646002,585297984,2.65,0.032125108,3,Neutral
+PH,Parker-Hannifin Corporation,153.08,$19.65B,NA,Capital Goods,Metal Fabrications,NYSE,10.515,13.1811695,49.315,2.8105042,128363000,3.4,0.025641026,3,Neutral
+PHM,"PulteGroup, Inc.",27.24,$7.3B,NA,Capital Goods,Homebuilding,NYSE,3.656,6.9803066,20.198,1.2634915,269480000,0.44,0.018280016,5,Strong Buy
+PKG,Packaging Corporation of America,94.75,$8.99B,2000,Consumer Durables,Containers/Packaging,NYSE,7.34,12.376021,32.692,2.7786613,94850000,3.16,0.036937464,5,Strong Buy
+PKI,"PerkinElmer, Inc.",89.09,$9.92B,NA,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,2.038,41.035324,25.318,3.3031833,111304000,0.28,0.0032729397,5,Strong Buy
+PLD,"Prologis, Inc.",86.85,$64.19B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,2.464,36.61526,35.746,2.5239189,NA,NA,NA,5,Strong Buy
+PM,Philip Morris International Inc,73.28,$114.11B,NA,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,4.61,16.911062,-7.441,-10.477086,NA,NA,NA,5,Strong Buy
+PNC,"PNC Financial Services Group, Inc. (The)",102.97,$43.66B,NA,Finance,Major Banks,NYSE,10.754,9.438349,116.186,0.87359923,428727008,4.4,0.044489384,3,Neutral
+PNR,Pentair plc.,33.43,$5.6B,NA,Technology,Industrial Machinery/Components,NYSE,2.085,15.184652,11.61,2.7269595,167635008,0.72,0.023968043,5,Strong Buy
+PNW,Pinnacle West Capital Corporation,74.12,$8.34B,NA,Public Utilities,Electric Utilities: Central,NYSE,4.77,16.75262,48.3,1.6544515,112489000,2.995,0.03860531,5,Strong Buy
+PPG,"PPG Industries, Inc.",88,$20.76B,NA,Basic Industries,Paints/Coatings,NYSE,5.22,17.875479,22.42,4.161909,235910000,1.98,0.021982903,3,Neutral
+PPL,PPL Corporation,24.87,$19.1B,NA,Public Utilities,Electric Utilities: Central,NYSE,2.37,11.135021,16.932,1.5585873,768179968,1.65,0.06519163,5,Strong Buy
+PRGO,Perrigo Company,52.68,$7.17B,NA,Health Care,Major Pharmaceuticals,NYSE,1.07,48.47663,42.644,1.2163492,136127008,0.82,0.016525595,5,Strong Buy
+PRU,"Prudential Financial, Inc.",59.54,$23.58B,2001,Finance,Life Insurance,NYSE,10.107,5.6000786,158.249,0.3576642,396044000,4,0.074612945,4,Buy
+PSA,Public Storage,184.36,$32.2B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,7.29,26.951988,28.655,6.856744,174636992,8,0.04144863,5,Strong Buy
+PSX,Phillips 66,66.36,$29.05B,NA,Energy,Integrated oil Companies,NYSE,6.773,8.78931,56.482,1.0539641,437838016,3.5,0.06015813,5,Strong Buy
+PVH,PVH Corp.,44.67,$181.4M,NA,Consumer Non-Durables,Apparel,NYSE,5.6,8.014286,80.388,0.55829227,72958304,0.15,0.0038275074,3,Neutral
+PWR,"Quanta Services, Inc.",34.97,$4.82B,NA,Capital Goods,Engineering & Construction,NYSE,2.73,12.787545,28.451,1.2270219,137646000,0.17,0.0051375036,5,Strong Buy
+PXD,Pioneer Natural Resources Company,82.92,$13.67B,NA,Energy,Oil & Gas Production,NYSE,4.5,17.028889,73.206,1.0467721,164863008,1.2,0.0148772625,3,Neutral
+RCL,Royal Caribbean Cruises Ltd.,40.77,$8.53B,1993,Consumer Services,Marine Transportation,NYSE,8.95,4.177654,58.256,0.6418223,209116992,2.96,0.087033235,3,Neutral
+RE,"Everest Re Group, Ltd.",165.01,$7.51B,NA,Finance,Property-Casualty Insurers,NYSE,24.7,7.949393,223.852,0.8771421,45540900,5.75,0.032054856,3,Neutral
+RF,Regions Financial Corporation,10.17,$9.74B,NA,Finance,Major Banks,NYSE,1.5,6.346667,15.654,0.6081513,NA,NA,NA,4,Buy
+RHI,Robert Half International Inc.,44.38,$5.09B,NA,Technology,Professional Services,NYSE,3.9,11.087179,10.092,4.284582,114741000,1.24,0.029987909,5,Strong Buy
+RJF,"Raymond James Financial, Inc.",63.18,$8.8B,NA,Finance,Investment Bankers/Brokers/Service,NYSE,7.373,8.635562,49.245,1.2929231,139284000,1.39,0.022368845,4,Buy
+RL,Ralph Lauren Corporation,73.09,$5.39B,1997,Consumer Non-Durables,Apparel,NYSE,8.479,8.571766,42.286,1.7187722,48861800,2.688,0.040101446,4,Buy
+RMD,ResMed Inc.,159.07,$23B,NA,Health Care,Medical/Dental Instruments,NYSE,3.133,52.716248,15.616,10.576332,143786000,1.54,0.009569973,5,Strong Buy
+ROK,"Rockwell Automation, Inc.",183.19,$21.22B,NA,Capital Goods,Industrial Machinery/Components,NYSE,7.838,21.509314,6.171,27.319721,116184000,3.93,0.023647632,3,Neutral
+ROL,"Rollins, Inc.",40,$13.11B,NA,Finance,Diversified Commercial Services,NYSE,0.62,62.838707,2.491,15.6403055,327776992,0.42,0.011140583,5,Strong Buy
+ROP,"Roper Technologies, Inc.",339.38,$35.43B,1992,Capital Goods,Industrial Machinery/Components,NYSE,16.82,19.142094,91.181,3.5311084,104058000,1.9,0.0060579004,5,Strong Buy
+RSG,"Republic Services, Inc.",77.13,$24.62B,1998,Public Utilities,Environmental Services,NYSE,3.33,24.108109,25.465,3.1525624,319152992,1.56,0.020033387,5,Strong Buy
+RTX,Raytheon Technologies Corporation,61.11,$92.59B,NA,Capital Goods,Aerospace,NYSE,NA,NA,NA,NA,866164992,NA,NA,NA,NA
+SCHW,The Charles Schwab Corporation,36.45,$46.92B,NA,Finance,Investment Bankers/Brokers/Service,NYSE,2.56,13.98047,20.435,1.751407,1287280000,0.69,0.01923613,4,Buy
+SEE,Sealed Air Corporation,28.22,$4.39B,NA,Basic Industries,Major Chemicals,NYSE,1.692,17.434988,-1.27,-23.228346,155658000,0.64,0.022670917,5,Strong Buy
+SHW,Sherwin-Williams Company (The),526.44,$48.33B,NA,Consumer Services,RETAIL: Building Materials,NYSE,16.49,31.337175,49.256,10.491108,91804000,4.52,0.009034759,5,Strong Buy
+SJM,J.M. Smucker Company (The),115.51,$13.17B,NA,Consumer Non-Durables,Packaged Foods,NYSE,5.482,22.178038,71.644,1.6970019,114038000,3.49,0.029436573,NA,NA
+SLB,Schlumberger N.V.,15.75,$21.86B,NA,Energy,Oilfield Services/Equipment,NYSE,-7.32,NA,17.161,0.89039105,NA,NA,NA,3,Neutral
+SLG,SL Green Realty Corp,49.07,$3.81B,1997,Consumer Services,Real Estate Investment Trusts,NYSE,3.105,16.508856,65.899,0.77785695,NA,NA,NA,5,Strong Buy
+SNA,Snap-On Incorporated,124.05,$6.74B,NA,Capital Goods,Industrial Machinery/Components,NYSE,12.41,9.535052,62.38,1.8969221,NA,NA,NA,3,Neutral
+SO,Southern Company (The),54.41,$57.51B,NA,Public Utilities,Electric Utilities: Central,NYSE,4.5,12.7711115,26.114,2.2007353,1057009984,2.46,0.04312007,5,Strong Buy
+SPG,"Simon Property Group, Inc.",63.2,$19.32B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,6.81,8.240822,8.095,6.932674,306860992,8.3,0.15821579,5,Strong Buy
+SPGI,S&P Global Inc.,286.06,$68.92B,NA,Finance,Finance: Consumer Services,NYSE,8.6,32.8593,1.963,143.95822,240939008,2.28,0.00826057,5,Strong Buy
+SRE,Sempra Energy,119.93,$35.07B,NA,Public Utilities,Natural Gas Distribution,NYSE,7.29,17.06996,60.577,2.054245,292392992,3.87,0.031295486,5,Strong Buy
+STE,STERIS plc,141.4,$11.99B,NA,Health Care,Industrial Specialties,NYSE,4.6,33.689133,39.894,3.884544,84813104,1.42,0.009411452,5,Strong Buy
+STT,State Street Corporation,59.08,$20.79B,NA,Finance,Major Banks,NYSE,5.38,10.871747,60.072,0.973665,NA,NA,NA,5,Strong Buy
+STZ,Constellation Brands Inc,161.57,$31.16B,NA,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,-0.062,NA,63.236,2.5729015,167512992,3,0.019327406,5,Strong Buy
+SWK,"Stanley Black & Decker, Inc.",106.5,$16.4B,NA,Capital Goods,Industrial Machinery/Components,NYSE,6.35,17.722836,49.746,2.2622926,154024992,2.7,0.02514669,5,Strong Buy
+SYF,Synchrony Financial,18.51,$10.8B,2014,Finance,Finance: Consumer Services,NYSE,5.56,2.8093526,23.305,0.6702424,NA,NA,NA,5,Strong Buy
+SYK,Stryker Corporation,180.62,$67.7B,NA,Health Care,Medical/Dental Instruments,NYSE,5.48,34.582115,34.198,5.5415516,374828000,2.135,0.011735928,3,Neutral
+SYY,Sysco Corporation,52.76,$26.83B,NA,Consumer Non-Durables,Food Distributors,NYSE,3.494,14.398971,4.967,10.128851,508508992,1.62,0.0315482,3,Neutral
+T,AT&T Inc.,29.9,$213.04B,NA,Public Utilities,Telecommunications Equipment,NYSE,1.895,16.480211,25.394,1.2298181,NA,NA,NA,5,Strong Buy
+TAP,Molson Coors Beverage Company,38.92,$8.43B,NA,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,1.11,39.981983,62.041,0.7153334,196468000,1.96,0.04655582,5,Strong Buy
+TDG,Transdigm Group Incorporated,349.45,$18.76B,2006,Capital Goods,Military/Government/Technical,NYSE,12.836,26.285446,-80.233,-4.205252,53687700,NA,NA,5,Strong Buy
+TEL,TE Connectivity Ltd.,70.58,$23.37B,NA,Technology,Electronic Components,NYSE,4.714,14.306321,31.567,2.1364083,333703008,1.82,0.02705113,5,Strong Buy
+TFC,Truist Financial Corporation,35.44,$47.75B,NA,Finance,Major Banks,NYSE,NA,NA,NA,NA,1347459968,NA,NA,NA,NA
+TFX,Teleflex Incorporated,329.37,$15.27B,NA,Health Care,Medical/Dental Instruments,NYSE,9.799,35.37912,64.273,5.3938665,46370700,1.36,0.004071491,5,Strong Buy
+TGT,Target Corporation,108.23,$54.1B,NA,Consumer Services,Department/Specialty Retail Stores,NYSE,6.363,17.824924,23.469,4.832758,504199008,2.6,0.024335455,5,Strong Buy
+TIF,Tiffany & Co.,127.06,$15.42B,1987,Consumer Services,Consumer Specialties,NYSE,4.45,29.022472,27.417,4.710581,121335000,2.29,0.017880846,3,Neutral
+TJX,"TJX Companies, Inc. (The)",48.25,$57.8B,NA,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,2.67,18.625467,4.961,10.024189,1197699968,0.92,0.019836137,5,Strong Buy
+TMO,Thermo Fisher Scientific Inc,329.81,$130.26B,NA,Capital Goods,Industrial Machinery/Components,NYSE,9.17,36.159214,74.422,4.455403,NA,NA,NA,5,Strong Buy
+TPR,"Tapestry, Inc.",15.16,$4.18B,NA,Consumer Non-Durables,Apparel,NYSE,2.046,7.4389052,12.038,1.2643297,276028992,1.35,0.10067114,3,Neutral
+TRV,"The Travelers Companies, Inc.",96.05,$24.28B,NA,Finance,Property-Casualty Insurers,NYSE,9.92,10.591734,101.538,1.034785,NA,NA,NA,4,Buy
+TSN,"Tyson Foods, Inc.",60.01,$21.91B,NA,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,5.54,11.2527075,39.5,1.5782279,295028000,1.545,0.025784379,5,Strong Buy
+TT,Trane Technologies plc,86.81,$20.77B,NA,Capital Goods,Auto Parts:O.E.M.,NYSE,NA,NA,NA,NA,238400992,NA,NA,NA,NA
+TWTR,"Twitter, Inc.",27.84,$21.84B,2013,Technology,"Computer Software: Programming, Data Processing",NYSE,1.87,14.278075,11.185,2.3871255,784628992,NA,NA,4,Buy
+TXT,Textron Inc.,26.22,$5.97B,NA,Capital Goods,Aerospace,NYSE,3.5,7.928571,24.206,1.14641,227644992,0.08,0.0030063884,5,Strong Buy
+UA,"Under Armour, Inc.",8.76,$3.96B,2016,Consumer Non-Durables,Apparel,NYSE,0.203,43.793106,4.759,1.8680396,229070000,NA,NA,NA,NA
+UAA,"Under Armour, Inc.",9.8,$4.43B,NA,Consumer Non-Durables,Apparel,NYSE,0.203,48.52217,4.759,2.0697627,188400992,NA,NA,5,Strong Buy
+UDR,"UDR, Inc.",36.1,$10.65B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,0.63,61.80952,11.244,3.46318,294588000,1.37,0.037370432,4,Buy
+UHS,"Universal Health Services, Inc.",99.15,$8.49B,NA,Health Care,Hospital/Nursing Management,NYSE,9.13,11.806133,63.48,1.6980151,78351104,0.6,0.006116208,5,Strong Buy
+UNH,UnitedHealth Group Incorporated,284.51,$269.55B,NA,Health Care,Medical Specialities,NYSE,14.29,20.3331,62.228,4.6692805,948572992,4.32,0.015594543,3,Neutral
+UNM,Unum Group,16.5,$3.35B,NA,Finance,Accident &Health Insurance,NYSE,5.24,2.9599237,49.104,0.3158602,203324992,1.115,0.07621326,4,Buy
+UNP,Union Pacific Corporation,156.64,$106.29B,NA,Transportation,Railroads,NYSE,8.38,17.886635,26.193,5.7225213,678553984,3.7,0.025152957,3,Neutral
+UPS,"United Parcel Service, Inc.",91.9,$79.08B,1999,Transportation,Trucking Freight/Courier Services,NYSE,5.11,20.107632,3.812,26.954355,702540992,3.84,0.03934023,3,Neutral
+URI,"United Rentals, Inc.",119.28,$8.84B,1997,Technology,Diversified Commercial Services,NYSE,15.11,6.9523497,51.505,2.0396078,74077904,NA,NA,3,Neutral
+USB,U.S. Bancorp,34.94,$53.15B,NA,Finance,Major Banks,NYSE,3.883,9.029101,30.244,1.1592382,1521260032,1.63,0.049022555,5,Strong Buy
+V,Visa Inc.,175.57,$389.04B,NA,Miscellaneous,Business Services,NYSE,5.477,30.954899,13.86,12.232323,1706019968,1.1,0.0066030375,3,Neutral
+VFC,V.F. Corporation,55.43,$21.88B,NA,Consumer Non-Durables,Apparel,NYSE,3.224,17.834988,11.577,4.9667444,394720000,1.93,0.035562925,3,Neutral
+VLO,Valero Energy Corporation,58.76,$24.01B,NA,Energy,Integrated oil Companies,NYSE,5.847,8.852403,53.27,0.9716538,408545984,3.6,0.07118845,5,Strong Buy
+VMC,Vulcan Materials Company,110.68,$14.67B,NA,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,4.634,24.17566,42.47,2.637862,132395000,1.24,0.011820782,5,Strong Buy
+VNO,Vornado Realty Trust,42,$8.03B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,16.213,2.593598,30.582,1.3749918,191104000,2.64,0.070948675,5,Strong Buy
+VTR,"Ventas, Inc.",30.33,$11.32B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,1.17,26.743591,28.019,1.1167423,373064000,3.17,0.11398778,5,Strong Buy
+VZ,Verizon Communications Inc.,56.83,$235.16B,NA,Public Utilities,Telecommunications Equipment,NYSE,4.65,12.572042,14.845,3.9380262,4140000000,2.435,0.041989997,5,Strong Buy
+WAB,Westinghouse Air Brake Technologies Corporation,54.41,$10.34B,NA,Capital Goods,Railroads,NYSE,1.837,26.810017,51.938,0.948246,190022000,0.48,0.009411764,5,Strong Buy
+WAT,Waters Corporation,178.08,$11.03B,1995,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,8.69,22.728424,-3.456,-57.14988,61933600,NA,NA,4,Buy
+WEC,"WEC Energy Group, Inc.",88.46,$27.9B,NA,Public Utilities,Power Generation,NYSE,3.58,28.027933,32.062,3.1295614,315435008,2.36,0.024481326,5,Strong Buy
+WELL,Welltower Inc.,47.33,$19.43B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,3.05,16.09836,37.88,1.2961985,410556000,3.48,0.07857304,5,Strong Buy
+WFC,Wells Fargo & Company,27.59,$113.02B,NA,Finance,Major Banks,NYSE,2.89,9.820068,39.672,0.71536595,4096410112,1.98,0.0738806,5,Strong Buy
+WHR,Whirlpool Corporation,112.19,$7.03B,NA,Consumer Durables,Consumer Electronics/Appliances,NYSE,18.45,5.708943,50.714,2.0769413,62677800,4.75,0.04781077,5,Strong Buy
+WM,"Waste Management, Inc.",98.21,$41.6B,NA,Public Utilities,Environmental Services,NYSE,3.91,25.6445,16.657,6.0196915,423627008,2.05,0.02075739,5,Strong Buy
+WMB,"Williams Companies, Inc. (The)",18.55,$22.5B,NA,Public Utilities,Natural Gas Distribution,NYSE,0.698,25.902578,10.997,1.6440848,1213120000,1.52,0.08607022,5,Strong Buy
+WMT,Walmart Inc.,122.92,$348.32B,NA,Consumer Services,Department/Specialty Retail Stores,NYSE,5.19,25.456646,26.362,5.0117593,2837179904,2.12,0.016110646,5,Strong Buy
+WRB,W.R. Berkley Corporation,51.45,$9.61B,NA,Finance,Property-Casualty Insurers,NYSE,3.52,16.190342,33.122,1.7206086,NA,NA,NA,5,Strong Buy
+WRK,Westrock Company,30.84,$7.97B,2015,Consumer Durables,Containers/Packaging,NYSE,3.32,9.243977,45.763,0.67062914,258456000,1.83,0.06427819,3,Neutral
+WU,Western Union Company (The),18.52,$7.61B,NA,Miscellaneous,Business Services,NYSE,2.46,8.101626,-0.094,-212.02129,410871008,0.8,0.04230566,5,Strong Buy
+WY,Weyerhaeuser Company,17.97,$13.41B,NA,Consumer Services,Real Estate Investment Trusts,NYSE,-0.102,NA,10.971,1.8321029,746206016,1.36,0.07150368,3,Neutral
+XOM,Exxon Mobil Corporation,43.14,$182.5B,NA,Energy,Integrated oil Companies,NYSE,3.358,12.870756,45.265,0.95482165,4230429952,3.43,0.08141467,5,Strong Buy
+XRX,Xerox Holdings Corporation,17.03,$3.62B,NA,Technology,Computer peripheral equipment,NYSE,5.803,3.122523,26.281,0.6894715,212831008,1,0.05851375,5,Strong Buy
+XYL,Xylem Inc.,69.29,$12.47B,2011,Capital Goods,Fluid Controls,NYSE,2.21,31.488686,16.415,4.2394147,179916000,0.96,0.013876842,5,Strong Buy
+YUM,"Yum! Brands, Inc.",83.81,$25.22B,NA,Consumer Services,Restaurants,NYSE,4.14,20.330917,-26.72,-3.150075,300900000,1.73,0.019933172,3,Neutral
+ZBH,"Zimmer Biomet Holdings, Inc.",116.25,$24.03B,NA,Health Care,Industrial Specialties,NYSE,5.47,21.678246,60.136,1.9718637,206682000,0.96,0.00878638,5,Strong Buy
+ZTS,Zoetis Inc.,127.53,$60.57B,2013,Health Care,Major Pharmaceuticals,NYSE,3.11,42.032158,5.695,22.953468,474910016,0.656,0.005214212,3,Neutral
+AAL,"American Airlines Group, Inc.",10.64,$4.5B,NA,Transportation,Air Freight/Delivery Services,NASDAQ,3.79,3.0527704,-0.276,-41.920288,428200000,0.4,0.03894839,4,Buy
+AAPL,Apple Inc.,289.07,$1264.82B,1980,Technology,Computer Manufacturing,NASDAQ,12.595,22.453354,20.418,13.850524,4375479808,3.04,0.011010503,NA,NA
+ABMD,"ABIOMED, Inc.",183.49,$8.27B,NA,Health Care,Medical/Dental Instruments,NASDAQ,5.331,31.142376,23.205,7.154493,45155100,NA,NA,3,Neutral
+ADBE,Adobe Inc.,343.84,$165.66B,1986,Technology,Computer Software: Prepackaged Software,NASDAQ,6.599,52.14578,21.667,15.881755,483268000,NA,NA,3,Neutral
+ADI,"Analog Devices, Inc.",103.64,$38.16B,NA,Technology,Semiconductors,NASDAQ,3.251,31.621042,31.746,3.2382033,368220000,2.24,0.021934979,5,Strong Buy
+ADP,"Automatic Data Processing, Inc.",140.42,$60.63B,NA,Technology,EDP Services,NASDAQ,5.661,24.921392,12.423,11.356355,431753984,3.28,0.023648161,3,Neutral
+ADSK,"Autodesk, Inc.",174.9,$38.39B,NA,Technology,Computer Software: Prepackaged Software,NASDAQ,0.96,188.47917,-0.634,-285.39432,219520992,NA,NA,3,Neutral
+AKAM,"Akamai Technologies, Inc.",95.86,$15.53B,1999,Miscellaneous,Business Services,NASDAQ,2.9,36.327583,22.58,4.665633,162479008,NA,NA,4,Buy
+ALGN,"Align Technology, Inc.",203.26,$16.01B,2001,Health Care,Industrial Specialties,NASDAQ,5.53,34.90054,17.163,11.24512,78758704,NA,NA,3,Neutral
+ALXN,"Alexion Pharmaceuticals, Inc.",103.91,$23.08B,1996,Health Care,Major Pharmaceuticals,NASDAQ,10.7,9.671028,50.934,2.0316489,222100000,NA,NA,3,Neutral
+AMAT,"Applied Materials, Inc.",46.89,$43.06B,1972,Technology,Semiconductors,NASDAQ,3.015,17.645107,9.43,5.641569,918305024,0.84,0.016119746,3,Neutral
+AMD,"Advanced Micro Devices, Inc.",49.88,$58.4B,NA,Technology,Semiconductors,NASDAQ,0.3,188.66666,2.416,23.427153,1170850048,NA,NA,3,Neutral
+AMGN,Amgen Inc.,230.98,$135.76B,1983,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,12.88,18.243011,16.356,14.365981,587763008,5.8,0.02529548,4,Buy
+AMZN,"Amazon.com, Inc.",2286.04,$1139.65B,1997,Consumer Services,Catalog/Specialty Distribution,NASDAQ,23.01,103.215996,124.618,19.058243,498000000,NA,NA,3,Neutral
+ANSS,"ANSYS, Inc.",255.64,$21.88B,1996,Technology,Computer Software: Prepackaged Software,NASDAQ,5.25,50.266666,40.28,6.5516386,85580400,NA,NA,3,Neutral
+ATVI,"Activision Blizzard, Inc",64.72,$49.86B,NA,Technology,Computer Software: Prepackaged Software,NASDAQ,1.95,34.297432,16.657,4.0151286,768259968,0.41,0.00612123,5,Strong Buy
+AVGO,Broadcom Inc.,259.7,$103.83B,2009,Technology,Semiconductors,NASDAQ,6.045,43.98346,61.073,4.3534784,399791008,11.8,0.045389853,5,Strong Buy
+BIIB,Biogen Inc.,293.09,$47.83B,NA,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,31.42,10.902291,76.597,4.472107,NA,NA,NA,3,Neutral
+BKNG,Booking Holdings Inc.,1448.79,$59.3B,NA,Consumer Services,Transportation Services,NASDAQ,111.82,13.153908,143.249,10.267925,41061800,NA,NA,3,Neutral
+CBOE,"Cboe Global Markets, Inc.",94.01,$10.51B,2010,NA,NA,NASDAQ,4.555,22.243689,28.094,3.606464,109720000,1.08,0.010778444,NA,NA
+CDNS,"Cadence Design Systems, Inc.",75.84,$21.17B,NA,Technology,Computer Software: Prepackaged Software,NASDAQ,3.53,22.280455,7.514,10.467129,NA,NA,NA,NA,NA
+CDW,CDW Corporation,106.82,$15.2B,2013,Consumer Services,Catalog/Specialty Distribution,NASDAQ,4.99,21.807615,6.715,16.20551,142258000,1.265,0.012433655,NA,NA
+CERN,Cerner Corporation,66.71,$20.3B,1986,Technology,EDP Services,NASDAQ,1.65,42.430305,13.886,5.041769,304246016,0.54,0.0076292744,3,Neutral
+CHRW,"C.H. Robinson Worldwide, Inc.",70.83,$9.3B,1997,Transportation,Oil Refining/Marketing,NASDAQ,4.19,17.71599,12.385,5.993541,131340000,2.01,0.028080469,NA,NA
+CHTR,"Charter Communications, Inc.",509.64,$119.36B,NA,Consumer Services,Television Services,NASDAQ,7.45,67.03625,149.755,3.3349137,234196000,NA,NA,5,Strong Buy
+CINF,Cincinnati Financial Corporation,60.95,$9.8B,NA,Finance,Property-Casualty Insurers,NASDAQ,12.1,7.090909,60.546,1.4171044,162246000,2.24,0.02810892,5,Strong Buy
+CMCSA,Comcast Corporation,36.98,$168.78B,NA,Consumer Services,Television Services,NASDAQ,2.83,13.455832,18.169,2.0958776,4543589888,0.84,0.023509655,3,Neutral
+CME,CME Group Inc.,173.65,$62.25B,2002,Finance,Investment Bankers/Brokers/Service,NASDAQ,5.91,32.42301,73.094,2.6215556,358476000,3,0.01672334,5,Strong Buy
+COST,Costco Wholesale Corporation,301.92,$133.32B,NA,Consumer Services,Department/Specialty Retail Stores,NASDAQ,8.519,37.318935,37.62,8.450825,441580000,2.6,0.008402818,3,Neutral
+CPRT,"Copart, Inc.",78.55,$18.36B,1994,Consumer Durables,Automotive Aftermarket,NASDAQ,3.074,23.454782,9.094,7.928304,233704992,NA,NA,5,Strong Buy
+CSCO,"Cisco Systems, Inc.",40.92,$173.54B,1990,Technology,Computer Communications Equipment,NASDAQ,2.564,16.567863,8.378,5.070422,4240880128,1.4,0.033524904,4,Buy
+CSX,CSX Corporation,65,$49.76B,NA,Transportation,Railroads,NASDAQ,4.17,15.052757,15.318,4.0977936,770710976,0.96,0.015766136,3,Neutral
+CTAS,Cintas Corporation,211.81,$22.04B,1983,Consumer Non-Durables,Apparel,NASDAQ,8.814,23.163149,31.956,6.388785,104050000,2.55,0.012915316,5,Strong Buy
+CTSH,Cognizant Technology Solutions Corporation,56.5,$30.57B,1998,Technology,EDP Services,NASDAQ,3.29,16.355623,20.113,2.675384,547566016,0.8,0.015308076,4,Buy
+CTXS,"Citrix Systems, Inc.",142.58,$17.6B,1995,Technology,Computer Software: Prepackaged Software,NASDAQ,5.03,29.902584,6.44,23.35559,123451000,1.4,0.009229349,3,Neutral
+DISCA,"Discovery, Inc.",21.67,$11.29B,NA,Consumer Services,Television Services,NASDAQ,2.477,8.938231,14.256,1.5530303,158140000,NA,NA,5,Strong Buy
+DISCK,"Discovery, Inc.",19.54,$10.18B,NA,Consumer Services,Television Services,NASDAQ,2.477,8.155026,14.256,1.4169474,360664000,NA,NA,NA,NA
+DISH,DISH Network Corporation,23.99,$12.55B,1995,Consumer Services,Television Services,NASDAQ,2.6,8.661539,22.11,1.0185436,284616000,NA,NA,NA,NA
+DLTR,"Dollar Tree, Inc.",77.39,$18.36B,1995,Consumer Services,Department/Specialty Retail Stores,NASDAQ,3.47,23.553314,26.422,3.0932558,236811008,NA,NA,5,Strong Buy
+EA,Electronic Arts Inc.,113.27,$32.81B,NA,Technology,Computer Software: Prepackaged Software,NASDAQ,9.498,12.123605,24.869,4.630263,289673984,NA,NA,3,Neutral
+EBAY,eBay Inc.,39.25,$31.25B,1998,Miscellaneous,Business Services,NASDAQ,2.093,17.895367,3.606,10.386856,796081024,0.56,0.014640523,4,Buy
+EQIX,"Equinix, Inc.",670.85,$57.64B,2000,Consumer Services,Real Estate Investment Trusts,NASDAQ,5.99,116.01837,103.631,6.706005,85278896,9.84,0.0143693695,NA,NA
+ETFC,E*TRADE Financial Corporation,39.44,$8.72B,NA,Finance,Savings Institutions,NASDAQ,3.85,10.3558445,26.523,1.5032235,221024000,0.56,0.014496505,4,Buy
+EXC,Exelon Corporation,35.8,$34.87B,NA,Public Utilities,Power Generation,NASDAQ,3.01,12.770763,33.118,1.160698,973929984,1.45,0.038978495,3,Neutral
+EXPD,"Expeditors International of Washington, Inc.",71.36,$11.99B,NA,Transportation,Oil Refining/Marketing,NASDAQ,3.39,21.162241,12.941,5.543621,167988992,1,0.0142106,5,Strong Buy
+EXPE,"Expedia Group, Inc.",67.29,$9.49B,NA,Consumer Services,Transportation Services,NASDAQ,3.77,16.769232,27.819,2.2725475,134466000,1.32,0.021491373,3,Neutral
+FANG,"Diamondback Energy, Inc.",40.28,$6.36B,2012,Energy,Oil & Gas Production,NASDAQ,1.468,21.47139,83.326,0.3782733,158284000,0.938,0.02739486,3,Neutral
+FAST,Fastenal Company,35.7,$20.45B,1987,Consumer Services,RETAIL: Building Materials,NASDAQ,1.39,25.84892,4.638,7.746874,572819008,0.905,0.025975889,5,Strong Buy
+FB,"Facebook, Inc.",202.27,$576.63B,2012,Technology,"Computer Software: Programming, Data Processing",NASDAQ,6.43,27.875586,35.433,5.058562,2405750016,NA,NA,4,Buy
+FFIV,"F5 Networks, Inc.",135.3,$8.2B,1999,Technology,Computer Communications Equipment,NASDAQ,6.538,18.98287,31.733,3.9110706,60804100,NA,NA,3,Neutral
+FISV,"Fiserv, Inc.",100.25,$67.8B,1986,Technology,EDP Services,NASDAQ,1.71,58.84795,48.506,2.0745885,676336000,NA,NA,5,Strong Buy
+FITB,Fifth Third Bancorp,17.77,$12.64B,NA,Finance,Major Banks,NASDAQ,3.33,4.9939938,27.412,0.6066686,NA,NA,NA,5,Strong Buy
+FLIR,"FLIR Systems, Inc.",42.84,$5.76B,1993,Capital Goods,Industrial Machinery/Components,NASDAQ,1.26,27.103176,13.925,2.4524238,134456000,0.68,0.017068272,5,Strong Buy
+FOX,Fox Corporation,25.02,$15.18B,NA,Consumer Services,Broadcasting,NASDAQ,2.858,9.177747,16.926,1.5496868,262024000,0.46,0.018706791,5,Strong Buy
+FOXA,Fox Corporation,25.43,$15.43B,NA,Consumer Services,Broadcasting,NASDAQ,2.858,9.403429,16.926,1.5877938,344808992,0.46,0.018570852,5,Strong Buy
+FTNT,"Fortinet, Inc.",104.34,$18B,2009,Technology,Computer peripheral equipment,NASDAQ,1.87,60.406418,7.699,14.672035,171034000,NA,NA,3,Neutral
+GILD,"Gilead Sciences, Inc.",79.95,$100.66B,1992,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,4.22,19.902843,17.792,4.7206607,1259020032,2.52,0.030992499,4,Buy
+GOOG,Alphabet Inc.,1320.61,$903.26B,2004,Technology,"Computer Software: Programming, Data Processing",NASDAQ,49.163,26.101948,292.651,4.384916,342065984,NA,NA,NA,NA
+GOOGL,Alphabet Inc.,1317.32,$901.01B,NA,Technology,"Computer Software: Programming, Data Processing",NASDAQ,49.163,26.015501,292.651,4.3703933,299828000,NA,NA,4,Buy
+GRMN,Garmin Ltd.,79.81,$15.25B,2000,Capital Goods,Industrial Machinery/Components,NASDAQ,4.99,16.45491,25.138,3.2663696,191018000,2.28,0.02887538,3,Neutral
+HAS,"Hasbro, Inc.",68.73,$9.42B,NA,Consumer Non-Durables,Recreational Products/Toys,NASDAQ,4.05,18.5679,21.887,3.4358294,137007008,2.72,0.0366824,5,Strong Buy
+HBAN,Huntington Bancshares Incorporated,8.57,$8.69B,NA,Finance,Major Banks,NASDAQ,1.27,6.346457,10.384,0.7761942,1022979968,0.58,0.0721393,3,Neutral
+HOLX,"Hologic, Inc.",49.4,$13.01B,1990,Health Care,Medical Electronics,NASDAQ,0.308,142.17532,8.53,5.133646,263302000,NA,NA,5,Strong Buy
+HSIC,"Henry Schein, Inc.",52.15,$7.44B,1995,Health Care,Medical Specialities,NASDAQ,4.65,11.535483,20.914,2.564789,143352992,NA,NA,5,Strong Buy
+IDXX,"IDEXX Laboratories, Inc.",270.75,$23.07B,1991,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,NASDAQ,4.89,54.224953,2.076,127.7264,85782600,NA,NA,5,Strong Buy
+ILMN,"Illumina, Inc.",305.88,$44.91B,2000,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NASDAQ,6.74,46.937683,31.381,10.081259,146814000,NA,NA,3,Neutral
+INCY,Incyte Corporation,97.3,$21.11B,NA,Health Care,Biotechnology: Commercial Physical & Biological Resarch,NASDAQ,2.05,48.780487,12.02,8.319468,216952000,NA,NA,3,Neutral
+INFO,IHS Markit Ltd.,65.3,$26.05B,1996,Technology,"Computer Software: Programming, Data Processing",NASDAQ,2.151,31.227335,20.979,3.2017732,398916000,0.17,0.0026784306,5,Strong Buy
+INFO,IHS Markit Ltd.,65.3,$26.05B,1996,Technology,"Computer Software: Programming, Data Processing",NASDAQ,2.151,31.227335,20.979,3.2017732,398916000,0.17,0.0026784306,5,Strong Buy
+INTC,Intel Corporation,57.47,$243.33B,NA,Technology,Semiconductors,NASDAQ,4.71,12.815287,18.066,3.3410828,4280519936,1.26,0.020965058,3,Neutral
+INTU,Intuit Inc.,261.13,$68.02B,1993,Technology,Computer Software: Prepackaged Software,NASDAQ,6.18,42.93851,14.306,18.54886,260488992,2,0.0075800642,3,Neutral
+IPGP,IPG Photonics Corporation,119.37,$6.34B,2006,Technology,Semiconductors,NASDAQ,3.35,35.537315,45.306,2.6276875,53142200,NA,NA,4,Buy
+ISRG,"Intuitive Surgical, Inc.",498.86,$58.18B,2000,Health Care,Industrial Specialties,NASDAQ,11.6,45.373276,73.286,7.181863,116750000,NA,NA,3,Neutral
+JBHT,"J.B. Hunt Transport Services, Inc.",100.865,$10.64B,NA,Transportation,Trucking Freight/Courier Services,NASDAQ,4.663,23.070984,21.642,4.97089,105461000,1.05,0.010473815,NA,NA
+JKHY,"Jack Henry & Associates, Inc.",158.5,$12.16B,1985,Technology,EDP Services,NASDAQ,3.658,46.380535,19.38,8.754387,76719600,1.6,0.010022551,5,Strong Buy
+KHC,The Kraft Heinz Company,29.38,$35.9B,NA,Consumer Non-Durables,Packaged Foods,NASDAQ,1.58,18.56329,42.279,0.69372505,1221760000,1.6,0.055632822,5,Strong Buy
+KLAC,KLA Corporation,150.27,$23.56B,1980,Capital Goods,Electronic Components,NASDAQ,7.128,22.616444,17.021,9.471242,156772000,3.1,0.019536173,3,Neutral
+LKQ,LKQ Corporation,24.81,$7.63B,NA,Consumer Services,Motor Vehicles,NASDAQ,1.74,12.031609,16.33,1.2819963,307691008,NA,NA,NA,NA
+LNT,Alliant Energy Corporation,47.25,$11.59B,NA,Public Utilities,Power Generation,NASDAQ,2.33,22.690987,21.243,2.4888198,245228992,1.42,0.02782677,5,Strong Buy
+LRCX,Lam Research Corporation,235.02,$34.12B,1984,Technology,Industrial Machinery/Components,NASDAQ,13.504,20.662025,30.741,9.076478,NA,NA,NA,4,Buy
+MAR,Marriott International,84.75,$27.48B,NA,Consumer Services,Hotels/Resorts,NASDAQ,3.8,22.173685,2.17,38.829494,324220992,1.85,0.023119222,5,Strong Buy
+MCHP,Microchip Technology Incorporated,81.52,$19.95B,1993,Technology,Semiconductors,NASDAQ,2.527,31.792639,23.448,3.4263048,244696000,1.463,0.018511958,3,Neutral
+MDLZ,"Mondelez International, Inc.",50.7,$72.49B,NA,Consumer Non-Durables,Packaged Foods,NASDAQ,2.65,20.181131,19.007,2.8137002,1429689984,1.09,0.020873228,3,Neutral
+MKTX,"MarketAxess Holdings, Inc.",449.79,$17.06B,2004,Finance,Investment Bankers/Brokers/Service,NASDAQ,5.4,79.58889,20.3,21.171429,37923500,2.04,0.004808599,5,Strong Buy
+MNST,Monster Beverage Corporation,59.52,$31.34B,NA,Consumer Non-Durables,Beverages (Production/Distribution),NASDAQ,2.03,30.635468,7.772,8.0018015,526547008,NA,NA,3,Neutral
+MSFT,Microsoft Corporation,174.57,$1327.79B,1986,Technology,Computer Software: Prepackaged Software,NASDAQ,5.741,31.109564,14.467,12.345338,7606049792,1.94,0.011180268,5,Strong Buy
+MU,"Micron Technology, Inc.",45.06,$50.12B,NA,Technology,Semiconductors,NASDAQ,2.02,22.623762,33.294,1.3726197,1112189952,NA,NA,3,Neutral
+MXIM,"Maxim Integrated Products, Inc.",52.06,$14.02B,1988,Technology,Semiconductors,NASDAQ,2.849,18.63461,6.401,8.294017,269393984,1.9,0.03628724,5,Strong Buy
+MYL,Mylan N.V.,16.125,$8.32B,NA,Health Care,Major Pharmaceuticals,NASDAQ,0.03,537.00006,23.024,0.6997047,516132992,NA,NA,5,Strong Buy
+NBL,Noble Energy Inc.,8.78,$4.26B,NA,Energy,Oil & Gas Production,NASDAQ,-3.163,NA,17.575,0.39544806,485040000,0.47,0.064827584,5,Strong Buy
+NCLH,Norwegian Cruise Line Holdings Ltd.,13.84,$2.97B,NA,Consumer Services,Marine Transportation,NASDAQ,4.3,2.8790696,30.578,0.40486625,213082000,NA,NA,3,Neutral
+NCLH,Norwegian Cruise Line Holdings Ltd.,13.84,$2.97B,NA,Consumer Services,Marine Transportation,NASDAQ,4.3,2.8790696,30.578,0.40486625,213082000,NA,NA,3,Neutral
+NDAQ,"Nasdaq, Inc.",106.62,$17.52B,NA,Finance,Investment Bankers/Brokers/Service,NASDAQ,4.63,24.025917,34.156,3.2568216,NA,NA,NA,3,Neutral
+NFLX,"Netflix, Inc.",415.27,$182.64B,2002,Consumer Services,Consumer Electronics/Video Chains,NASDAQ,4.13,102.41162,17.279,24.47827,NA,NA,NA,5,Strong Buy
+NLOK,NortonLifeLock Inc.,20.86,$12.52B,NA,Technology,Computer Software: Prepackaged Software,NASDAQ,NA,NA,NA,NA,600384000,NA,NA,NA,NA
+NTAP,"NetApp, Inc.",41.48,$9.17B,1995,Technology,Electronic Components,NASDAQ,4.263,9.8874035,1.27,33.188976,221176992,1.84,0.04637097,4,Buy
+NTRS,Northern Trust Corporation,75.47,$15.7B,NA,Finance,Major Banks,NASDAQ,6.63,12.066365,46.815,1.7088541,NA,NA,NA,4,Buy
+NVDA,NVIDIA Corporation,282.78,$173.06B,1999,Technology,Semiconductors,NASDAQ,4.52,64.67257,19.925,14.671018,612000000,0.64,0.002236589,4,Buy
+NWL,Newell Brands Inc.,12.28,$5.5B,NA,Consumer Non-Durables,Plastic Products,NASDAQ,0.252,51.031742,11.72,1.0972695,447974016,0.92,0.07631688,5,Strong Buy
+NWS,News Corporation,9.7,$5.71B,NA,Consumer Services,Newspapers/Magazines,NASDAQ,-0.312,NA,15.229,0.60214067,199630000,0.2,0.023121389,NA,NA
+NWSA,News Corporation,9.475,$5.57B,NA,Consumer Services,Newspapers/Magazines,NASDAQ,-0.312,NA,15.229,0.58441126,388636000,0.2,0.023710728,5,Strong Buy
+ODFL,"Old Dominion Freight Line, Inc.",147.03,$17.57B,1991,Transportation,Trucking Freight/Courier Services,NASDAQ,5.107,26.757391,25.773,5.30206,119500000,0.453,0.0035321638,5,Strong Buy
+ORLY,"O&#39;Reilly Automotive, Inc.",376.37,$27.93B,1993,Consumer Services,Other Specialty Stores,NASDAQ,17.88,20.889822,5.255,71.07707,NA,NA,NA,5,Strong Buy
+PAYX,"Paychex, Inc.",66.6,$23.89B,1983,Consumer Services,Diversified Commercial Services,NASDAQ,3.07,21.98697,7.694,8.77307,358715008,2.48,0.037114635,3,Neutral
+PBCT,"People&#39;s United Financial, Inc.",11.965,$5.07B,NA,Finance,Savings Institutions,NASDAQ,1.27,9.03937,17.597,0.6523839,424662016,0.708,0.06459854,3,Neutral
+PCAR,PACCAR Inc.,68.29,$23.66B,NA,Capital Goods,Auto Manufacturing,NASDAQ,6.87,9.847162,28.028,2.413658,NA,NA,NA,3,Neutral
+PEP,"Pepsico, Inc.",130.14,$180.57B,NA,Consumer Non-Durables,Beverages (Production/Distribution),NASDAQ,5.2,26.451925,10.63,12.939794,1394400000,3.792,0.028592974,3,Neutral
+PFG,Principal Financial Group Inc,35.1,$9.6B,2001,Finance,Accident &Health Insurance,NASDAQ,4.96,6.15625,52.849,0.5777782,273388992,2.18,0.07504303,5,Strong Buy
+PYPL,"PayPal Holdings, Inc.",120.61,$141.46B,NA,Miscellaneous,Business Services,NASDAQ,2.07,54.033817,14.395,7.7700586,1172889984,NA,NA,3,Neutral
+QCOM,QUALCOMM Incorporated,75.64,$86.46B,1991,Technology,Radio And Television Broadcasting And Communications Equipment,NASDAQ,3.524,21.614643,3.948,19.293312,1143040000,2.48,0.033208355,3,Neutral
+QRVO,"Qorvo, Inc.",93.15,$10.78B,NA,Technology,Semiconductors,NASDAQ,2.859,30.174885,37.493,2.3009627,115685000,NA,NA,5,Strong Buy
+REG,Regency Centers Corporation,40.92,$6.94B,1993,Consumer Services,Real Estate Investment Trusts,NASDAQ,1.429,27.053883,37.177,1.0398903,169616992,2.34,0.06602709,5,Strong Buy
+REGN,"Regeneron Pharmaceuticals, Inc.",525.5,$59.13B,1991,Health Care,Major Pharmaceuticals,NASDAQ,18.46,30.812027,101.633,5.5965085,108171000,NA,NA,3,Neutral
+ROST,"Ross Stores, Inc.",88.96,$31.62B,1985,Consumer Services,Clothing/Shoe/Accessory Stores,NASDAQ,4.6,19.93913,9.794,9.364918,355387008,1.05,0.0125193745,5,Strong Buy
+SBAC,SBA Communications Corporation,286.76,$32.17B,1999,Consumer Services,Real Estate Investment Trusts,NASDAQ,1.28,245.96094,-32.807,-9.596427,112201000,1.205,0.0039307154,5,Strong Buy
+SBUX,Starbucks Corporation,73.79,$86.21B,1992,Consumer Services,Restaurants,NASDAQ,3.053,25.253849,-5.756,-13.394718,1173699968,1.54,0.019883797,3,Neutral
+SIVB,SVB Financial Group,184.86,$9.52B,NA,Finance,Major Banks,NASDAQ,21.73,7.9930973,118.674,1.4635893,51546800,NA,NA,3,Neutral
+SNPS,"Synopsys, Inc.",149.64,$22.48B,1992,Technology,Computer Software: Prepackaged Software,NASDAQ,3.112,49.80077,27.622,5.610745,150227008,NA,NA,5,Strong Buy
+STX,Seagate Technology PLC,47.71,$12.26B,2002,Technology,Electronic Components,NASDAQ,6.183,8.324438,7.014,7.338181,NA,NA,NA,5,Strong Buy
+SWKS,"Skyworks Solutions, Inc.",98.83,$16.76B,NA,Technology,Semiconductors,NASDAQ,4.777,19.970694,25.028,3.8117309,169563008,1.64,0.017645793,3,Neutral
+TMUS,"T-Mobile US, Inc.",86.2,$106.41B,NA,Public Utilities,Telecommunications Equipment,NASDAQ,4.02,22.634329,33.596,2.708358,1234489984,NA,NA,5,Strong Buy
+TROW,"T. Rowe Price Group, Inc.",110.44,$25.13B,1986,Finance,Investment Bankers/Brokers/Service,NASDAQ,8.7,11.895402,30.194,3.4275022,233364992,3.04,0.03020968,5,Strong Buy
+TSCO,Tractor Supply Company,102.09,$11.84B,1994,Consumer Services,RETAIL: Building Materials,NASDAQ,4.66,19.896997,13.262,6.991404,116025000,1.36,0.014251283,5,Strong Buy
+TTWO,"Take-Two Interactive Software, Inc.",122.65,$13.91B,1997,Technology,Computer Software: Prepackaged Software,NASDAQ,2.958,42.068966,22.39,5.5578384,113424000,NA,NA,4,Buy
+TXN,Texas Instruments Incorporated,109.71,$100.69B,NA,Technology,Semiconductors,NASDAQ,5.237,21.68226,9.557,11.881344,NA,NA,NA,3,Neutral
+UAL,"United Airlines Holdings, Inc.",26.62,$6.58B,NA,Transportation,Air Freight/Delivery Services,NASDAQ,11.58,2.5112262,45.901,0.63353735,247256992,NA,NA,5,Strong Buy
+ULTA,"Ulta Beauty, Inc.",214.28,$12.07B,2007,Consumer Services,Other Specialty Stores,NASDAQ,12.15,17.737448,33.601,6.413797,56309500,NA,NA,5,Strong Buy
+VIAC,ViacomCBS Inc.,16.46,$10.12B,NA,Consumer Services,Broadcasting,NASDAQ,NA,NA,NA,NA,562716992,NA,NA,NA,NA
+VRSK,"Verisk Analytics, Inc.",153.45,$24.93B,2009,Technology,EDP Services,NASDAQ,2.7,56.959255,13.856,11.099162,163076000,1,0.0066137565,NA,NA
+VRSN,"VeriSign, Inc.",205.02,$23.69B,1998,Technology,EDP Services,NASDAQ,5.15,40.763103,-12.767,-16.443172,115761000,NA,NA,3,Neutral
+VRTX,Vertex Pharmaceuticals Incorporated,254.9,$66.06B,1991,Health Care,Major Pharmaceuticals,NASDAQ,4.51,59.968952,23.496,11.510895,257150000,NA,NA,3,Neutral
+WBA,"Walgreens Boots Alliance, Inc.",41.66,$36.54B,NA,Health Care,Medical/Nursing Services,NASDAQ,3.888,11.445474,26.942,1.6516963,885862016,1.812,0.041837912,5,Strong Buy
+WDC,Western Digital Corporation,40.48,$12.1B,NA,Technology,Electronic Components,NASDAQ,-4.044,NA,31.368,1.3491457,298932000,2,0.050087653,5,Strong Buy
+WLTW,Willis Towers Watson Public Limited Company,183.34,$23.6B,NA,Finance,Specialty Insurers,NASDAQ,8.02,24.36284,79.641,2.4533846,128721000,2.63,0.014150436,5,Strong Buy
+WYNN,"Wynn Resorts, Limited",80.83,$8.69B,2002,Consumer Services,Hotels/Resorts,NASDAQ,1.15,68.22609,16.348,4.799364,107355000,4,0.05711838,5,Strong Buy
+XEL,Xcel Energy Inc.,62.18,$32.65B,NA,Public Utilities,Power Generation,NASDAQ,2.64,25.435606,25.239,2.6605651,525028992,1.62,0.02480098,3,Neutral
+XLNX,"Xilinx, Inc.",82.99,$20.65B,1990,Technology,Semiconductors,NASDAQ,3.41,26.099707,10.614,8.385152,NA,NA,NA,4,Buy
+XRAY,DENTSPLY SIRONA Inc.,40.29,$8.82B,1987,Health Care,Medical/Dental Instruments,NASDAQ,1.17,34.92308,23.012,1.7755954,219026000,0.375,0.009396141,5,Strong Buy
+ZBRA,Zebra Technologies Corporation,225.55,$11.97B,1991,Technology,Industrial Machinery/Components,NASDAQ,9.97,20.359076,34.054,5.960533,53921500,NA,NA,5,Strong Buy
+ZION,Zions Bancorporation N.A.,30.9,$5.06B,NA,Finance,Major Banks,NASDAQ,4.16,6.990385,41.119,0.70721567,NA,NA,NA,4,Buy
